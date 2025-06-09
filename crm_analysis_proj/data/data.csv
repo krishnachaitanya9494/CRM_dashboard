@@ -1,0 +1,1001 @@
+InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country,CustomerName,Category
+INV-45556,S504,Running Shoes,4,14-10-2024,30.94,1097,India,Jennifer Jimenez,Sports
+INV-26097,C202,Jeans,1,19-07-2024,320.31,1050,France,Willie Diaz,Clothing
+INV-14260,E104,Smartwatch,5,10-03-2025,204.17,1071,Canada,Jason Bradshaw,Electronics
+INV-35370,C202,Jeans,9,16-06-2024,391.37,1042,Japan,Kaitlyn Downs,Clothing
+INV-13447,S503,Dumbbells,4,06-12-2024,350.15,1066,USA,Deanna Allen,Sports
+INV-44046,H301,Blender,8,24-09-2024,41.76,1055,France,Christopher Roberts,Home & Kitchen
+INV-10371,C202,Jeans,9,09-08-2024,63.68,1095,Canada,Kelly Porter,Clothing
+INV-37937,H301,Blender,2,23-01-2025,457.51,1014,India,Patrick Hunt,Home & Kitchen
+INV-87576,S503,Dumbbells,2,23-04-2024,315.72,1071,Canada,Kelly Cruz,Sports
+INV-27025,E101,Smartphone,1,28-06-2024,82.26,1040,Japan,Michael Horton,Electronics
+INV-59948,B404,Perfume,1,26-05-2024,412.66,1076,Germany,Susan Cook,Beauty
+INV-24420,S501,Football,7,15-09-2024,246.48,1026,Canada,Alyssa Thomas,Sports
+INV-66259,B402,Shampoo,5,09-11-2024,271.4,1030,UK,Jesse Anderson,Beauty
+INV-88002,B401,Face Cream,9,14-08-2024,313.94,1023,Japan,Mrs. Alicia Smith,Beauty
+INV-93017,E104,Smartwatch,10,22-05-2024,255.81,1064,Germany,Savannah Dixon,Electronics
+INV-93715,S501,Football,10,17-07-2024,296.05,1058,France,Brian Thomas,Sports
+INV-36535,B401,Face Cream,9,07-12-2024,442.56,1077,France,Brooke Delacruz,Beauty
+INV-63734,B402,Shampoo,5,19-01-2025,80.37,1043,Japan,Richard Hunter,Beauty
+INV-47735,C202,Jeans,3,13-08-2024,80.78,1013,France,Julie Barnes,Clothing
+INV-52075,B404,Perfume,1,19-02-2025,82.25,1076,Australia,Rebecca Hampton,Beauty
+INV-29630,C204,Sneakers,10,02-07-2024,415.11,1010,UK,Christopher Ford,Clothing
+INV-38151,E103,Wireless Earbuds,4,06-02-2025,345.98,1007,India,Michelle White,Electronics
+INV-96047,E103,Wireless Earbuds,4,23-03-2024,266.57,1007,France,Holly Smith,Electronics
+INV-84274,E103,Wireless Earbuds,6,10-07-2024,460.98,1013,India,Mr. Joshua Mccullough,Electronics
+INV-36912,S504,Running Shoes,2,14-12-2024,94.92,1027,USA,Julia Roberts,Sports
+INV-42212,C201,T-Shirt,4,06-08-2024,239.21,1001,UK,Jill Miller,Clothing
+INV-51244,C202,Jeans,6,27-03-2024,206.45,1090,Germany,Cynthia Knight,Clothing
+INV-54879,C202,Jeans,9,01-09-2024,398.47,1047,Japan,Mr. Kevin Hamilton,Clothing
+INV-55181,S503,Dumbbells,5,09-01-2025,21.95,1070,Australia,Douglas Lopez,Sports
+INV-57975,S504,Running Shoes,10,27-02-2025,432.48,1072,UK,Christina Smith,Sports
+INV-67108,B402,Shampoo,3,19-04-2024,229.47,1026,UK,Savannah Russell,Beauty
+INV-20812,E102,Laptop,2,17-05-2024,182.1,1022,Canada,Matthew Martin,Electronics
+INV-94593,C204,Sneakers,7,09-10-2024,308.31,1017,Japan,Dana Washington,Clothing
+INV-17331,C204,Sneakers,5,10-08-2024,47.98,1041,Japan,Judy Marsh,Clothing
+INV-52370,H301,Blender,7,16-03-2025,184.85,1074,Japan,Dustin Higgins,Home & Kitchen
+INV-96245,C201,T-Shirt,8,09-06-2024,167.24,1077,India,Lindsey Luna,Clothing
+INV-34218,H304,Air Fryer,5,15-10-2024,319.32,1039,Canada,Kayla Knight,Home & Kitchen
+INV-83109,B401,Face Cream,9,02-01-2025,200.28,1085,Canada,Michele Hansen,Beauty
+INV-57295,S502,Yoga Mat,5,19-09-2024,416.5,1086,France,Spencer Martin,Sports
+INV-29127,H302,Microwave,4,28-07-2024,368.6,1047,Canada,Kathryn Miller,Home & Kitchen
+INV-72892,B402,Shampoo,8,18-12-2024,447.67,1034,Australia,Richard Trevino,Beauty
+INV-72164,H302,Microwave,10,04-01-2025,334.56,1025,USA,Dr. Russell Jones II,Home & Kitchen
+INV-73478,H304,Air Fryer,2,01-11-2024,456.35,1084,Japan,Karen Woods,Home & Kitchen
+INV-71720,B403,Lipstick,9,28-01-2025,57.58,1071,Japan,Sandra Abbott,Beauty
+INV-45392,C202,Jeans,7,20-05-2024,326.03,1014,Japan,David Mcclure,Clothing
+INV-10303,H304,Air Fryer,2,08-03-2025,213.02,1100,Australia,Carla Bell,Home & Kitchen
+INV-78883,E102,Laptop,3,04-03-2025,257.29,1020,India,Derek Patel,Electronics
+INV-33447,C201,T-Shirt,7,27-09-2024,53.56,1029,UK,Nicholas Murphy,Clothing
+INV-33101,B402,Shampoo,4,14-06-2024,146.04,1075,France,Heather Lee,Beauty
+INV-20416,H303,Vacuum Cleaner,7,03-06-2024,490.31,1072,Japan,Charles Thomas,Home & Kitchen
+INV-12500,H303,Vacuum Cleaner,4,04-09-2024,232.36,1016,Germany,Gabriel Gomez,Home & Kitchen
+INV-56435,H302,Microwave,4,07-08-2024,451.59,1064,Australia,James Warner,Home & Kitchen
+INV-71308,S503,Dumbbells,7,26-04-2024,296.88,1056,UK,Dr. Amber Rice,Sports
+INV-59396,S502,Yoga Mat,6,17-05-2024,344.13,1031,India,Katherine Boyd,Sports
+INV-67120,H302,Microwave,9,27-04-2024,235.76,1094,Australia,Thomas Walker,Home & Kitchen
+INV-24515,E103,Wireless Earbuds,4,24-10-2024,215.87,1071,Canada,Tiffany Mccarthy,Electronics
+INV-32670,B402,Shampoo,4,15-11-2024,256.96,1091,Japan,Kathy Harris,Beauty
+INV-95331,E103,Wireless Earbuds,4,20-11-2024,412.91,1093,Australia,Jennifer Webb,Electronics
+INV-51535,E101,Smartphone,5,06-06-2024,453.07,1066,Germany,Bridget Bell,Electronics
+INV-67836,E101,Smartphone,10,21-07-2024,262.1,1003,Canada,Austin Pruitt,Electronics
+INV-19897,B404,Perfume,2,07-05-2024,182.38,1078,France,Kerri Camacho,Beauty
+INV-73180,B402,Shampoo,6,24-02-2025,255.23,1032,Canada,Carol Estrada,Beauty
+INV-65070,C203,Jacket,1,25-12-2024,389.42,1056,Germany,Matthew Aguilar,Clothing
+INV-91550,B404,Perfume,3,08-03-2025,485.4,1092,Canada,Stephen Mckinney,Beauty
+INV-85900,S504,Running Shoes,6,12-06-2024,301.81,1023,Japan,Diana Moore,Sports
+INV-37964,B402,Shampoo,8,21-12-2024,389.56,1028,India,Jennifer Eaton,Beauty
+INV-51952,E102,Laptop,7,07-01-2025,53.98,1003,Canada,Jeffrey Thompson,Electronics
+INV-39560,C201,T-Shirt,1,10-10-2024,360.3,1074,France,Dawn Johnston,Clothing
+INV-83442,H304,Air Fryer,8,10-06-2024,486.79,1013,USA,Jennifer Miller,Home & Kitchen
+INV-30103,E102,Laptop,3,16-06-2024,373.31,1080,India,Micheal Lambert,Electronics
+INV-20574,C201,T-Shirt,7,09-12-2024,102.07,1086,Germany,Bernard Roth,Clothing
+INV-31754,S501,Football,1,21-07-2024,413.69,1014,USA,Sydney Johnson,Sports
+INV-85795,E104,Smartwatch,6,04-04-2024,301.73,1014,Australia,Chelsea Wade,Electronics
+INV-63065,E103,Wireless Earbuds,9,16-04-2024,221.98,1077,India,Olivia Mayo,Electronics
+INV-59671,S501,Football,9,27-10-2024,129.51,1003,Canada,Deborah Powell,Sports
+INV-39789,E103,Wireless Earbuds,6,24-09-2024,122.3,1088,France,Margaret Anderson,Electronics
+INV-62065,C204,Sneakers,7,22-11-2024,429.83,1070,India,Glenn Baker,Clothing
+INV-92438,B401,Face Cream,1,07-04-2024,57.41,1090,USA,Laura Tran,Beauty
+INV-28340,S501,Football,7,07-01-2025,447.47,1043,France,Donald Wallace,Sports
+INV-17998,S501,Football,6,21-03-2024,288.43,1085,Australia,Deborah Davis,Sports
+INV-28148,C202,Jeans,10,20-06-2024,379.71,1065,USA,Brittany Espinoza,Clothing
+INV-50878,H303,Vacuum Cleaner,1,05-03-2025,375.73,1090,Germany,Angela Peterson,Home & Kitchen
+INV-94398,C201,T-Shirt,5,22-11-2024,231.95,1075,UK,Jonathan Holloway,Clothing
+INV-18070,B403,Lipstick,10,24-12-2024,356.93,1090,France,Richard Andrews,Beauty
+INV-92671,S502,Yoga Mat,6,12-09-2024,484.86,1076,India,Amanda Walker,Sports
+INV-52047,B401,Face Cream,8,01-11-2024,264.21,1091,Australia,Rachel Olson,Beauty
+INV-47782,H301,Blender,5,21-10-2024,224.73,1003,France,Jonathan Wright,Home & Kitchen
+INV-67875,E103,Wireless Earbuds,6,08-07-2024,346.5,1083,France,Vincent Rodriguez,Electronics
+INV-66918,H301,Blender,5,18-03-2025,352.58,1023,UK,Betty Pope,Home & Kitchen
+INV-10913,B402,Shampoo,3,11-06-2024,35,1064,France,Jesse Frost,Beauty
+INV-83215,C202,Jeans,4,23-12-2024,119.14,1009,UK,John Willis,Clothing
+INV-60884,E103,Wireless Earbuds,3,12-06-2024,185.67,1064,UK,Ronald Pace,Electronics
+INV-36314,H303,Vacuum Cleaner,8,20-03-2025,419.8,1021,Japan,Tiffany Gibson,Home & Kitchen
+INV-23205,B401,Face Cream,8,05-04-2024,468.69,1064,France,Heather Norton,Beauty
+INV-75692,E103,Wireless Earbuds,7,10-10-2024,391.18,1058,Japan,Lauren Navarro,Electronics
+INV-26932,C202,Jeans,1,11-04-2024,479.14,1045,USA,Samantha Gordon,Clothing
+INV-55306,H304,Air Fryer,9,22-05-2024,31.46,1095,UK,Nicole Brown,Home & Kitchen
+INV-57972,H303,Vacuum Cleaner,9,12-04-2024,481.35,1029,Canada,Curtis Frank,Home & Kitchen
+INV-74987,E103,Wireless Earbuds,5,27-09-2024,364.01,1074,Japan,Mary Palmer,Electronics
+INV-18917,H301,Blender,6,13-01-2025,65.88,1021,UK,Kristin Baker,Home & Kitchen
+INV-13786,B404,Perfume,3,08-04-2024,58.46,1064,Germany,Katherine Howard,Beauty
+INV-13158,E104,Smartwatch,1,18-12-2024,194.35,1054,France,Mr. Andrew Burke,Electronics
+INV-44716,C204,Sneakers,1,17-02-2025,283.11,1078,UK,Michelle Gonzalez,Clothing
+INV-78298,H303,Vacuum Cleaner,7,15-11-2024,390.56,1040,UK,Robyn English,Home & Kitchen
+INV-64292,H301,Blender,3,25-08-2024,221.69,1038,Japan,Krista Torres,Home & Kitchen
+INV-90927,H301,Blender,6,21-11-2024,460.64,1023,France,Laurie Burke,Home & Kitchen
+INV-17332,H302,Microwave,1,03-09-2024,410.24,1046,Germany,Heidi Williamson,Home & Kitchen
+INV-24009,C204,Sneakers,4,11-04-2024,334.4,1000,USA,Wendy Dickson,Clothing
+INV-27864,B401,Face Cream,9,01-04-2024,448.48,1028,Japan,Alexis Jones,Beauty
+INV-13986,H304,Air Fryer,3,18-03-2025,462.61,1006,Australia,Laura Johnson,Home & Kitchen
+INV-89622,S503,Dumbbells,1,22-09-2024,255.13,1075,Japan,Christina Young,Sports
+INV-35941,B403,Lipstick,5,16-10-2024,482.26,1023,India,Timothy Duncan,Beauty
+INV-37605,H303,Vacuum Cleaner,10,12-08-2024,286.8,1037,India,Hunter Warren,Home & Kitchen
+INV-45835,H304,Air Fryer,9,06-12-2024,112.77,1014,France,Seth Wong,Home & Kitchen
+INV-47384,S502,Yoga Mat,4,13-04-2024,283.46,1037,France,Nathan Anderson,Sports
+INV-47649,C201,T-Shirt,6,12-09-2024,438.45,1017,India,Brett Kelly,Clothing
+INV-96256,E102,Laptop,1,18-01-2025,85.66,1042,Canada,Juan Bennett,Electronics
+INV-93135,C204,Sneakers,10,03-05-2024,444.63,1050,Germany,Dustin Miller,Clothing
+INV-72669,H302,Microwave,2,12-02-2025,470.45,1096,UK,Alicia Peterson,Home & Kitchen
+INV-76749,C203,Jacket,5,06-08-2024,202.71,1053,Canada,Kevin Garrison,Clothing
+INV-52115,C203,Jacket,8,18-02-2025,374.57,1029,Australia,Kimberly Wilson,Clothing
+INV-43073,S501,Football,5,13-12-2024,237.27,1042,France,Danielle Gentry,Sports
+INV-48628,S501,Football,4,26-06-2024,478.44,1080,UK,Raymond Bowers,Sports
+INV-24967,B401,Face Cream,8,09-05-2024,157.84,1056,Germany,Julie Scott,Beauty
+INV-99326,B401,Face Cream,10,23-03-2024,33.56,1043,USA,Jerry Wells,Beauty
+INV-24172,S503,Dumbbells,10,04-12-2024,186.1,1021,Germany,Isaac Ware,Sports
+INV-48074,H303,Vacuum Cleaner,8,23-07-2024,413.7,1052,USA,Mr. Joshua Ashley MD,Home & Kitchen
+INV-85034,E102,Laptop,6,19-11-2024,59.73,1027,Australia,Kristin Carr,Electronics
+INV-92159,B401,Face Cream,5,12-07-2024,359.61,1046,Canada,Hayley Underwood,Beauty
+INV-21383,C201,T-Shirt,7,04-07-2024,65.63,1035,UK,Jared Smith,Clothing
+INV-60613,S502,Yoga Mat,10,27-04-2024,298.35,1095,Japan,Benjamin Jones,Sports
+INV-57806,E103,Wireless Earbuds,10,10-11-2024,423.56,1037,UK,Stanley Kaiser,Electronics
+INV-33112,B403,Lipstick,5,03-01-2025,397.47,1033,Canada,Roger Barron,Beauty
+INV-14379,B404,Perfume,6,10-07-2024,223.53,1019,Australia,Jacqueline Wilson DDS,Beauty
+INV-86662,C201,T-Shirt,2,15-11-2024,105.16,1039,India,Jason Martin,Clothing
+INV-47984,H303,Vacuum Cleaner,2,04-03-2025,446.56,1069,India,Joshua Stuart,Home & Kitchen
+INV-35525,B401,Face Cream,9,26-06-2024,207.99,1099,Japan,Aaron Brown,Beauty
+INV-75259,S502,Yoga Mat,1,21-09-2024,366.45,1095,Canada,Laura Jennings,Sports
+INV-80879,C204,Sneakers,5,03-10-2024,473.5,1028,Japan,Mallory Wheeler,Clothing
+INV-94809,E104,Smartwatch,7,02-03-2025,393.2,1023,France,Christine Walsh,Electronics
+INV-98351,S504,Running Shoes,8,09-03-2025,478.62,1065,Germany,Mr. Luke Johnson,Sports
+INV-32720,H304,Air Fryer,8,23-08-2024,172.01,1063,France,Mr. Philip Cox III,Home & Kitchen
+INV-96997,B401,Face Cream,4,25-11-2024,464.98,1048,Germany,Todd Morris,Beauty
+INV-15543,S501,Football,1,26-02-2025,483.96,1097,France,Kathryn Moreno,Sports
+INV-53358,C203,Jacket,2,23-08-2024,133.84,1083,France,Grant Spencer,Clothing
+INV-47227,E102,Laptop,7,28-10-2024,79.69,1092,France,Elizabeth Mueller,Electronics
+INV-74831,E104,Smartwatch,4,22-02-2025,171.01,1075,France,Donald Downs,Electronics
+INV-46189,S504,Running Shoes,5,04-07-2024,88.12,1031,France,Steven Figueroa,Sports
+INV-95483,H302,Microwave,2,17-10-2024,199.66,1095,France,Kayla Aguilar,Home & Kitchen
+INV-51151,C203,Jacket,2,06-06-2024,197.1,1053,India,Albert Jackson,Clothing
+INV-23141,B402,Shampoo,9,13-06-2024,411.94,1036,Germany,Amanda Richards,Beauty
+INV-87300,S501,Football,7,03-10-2024,154.82,1067,France,Suzanne Reed,Sports
+INV-15991,B404,Perfume,2,26-07-2024,338.4,1097,USA,James Castillo,Beauty
+INV-76180,C203,Jacket,7,15-05-2024,146.08,1029,Germany,Valerie Warner,Clothing
+INV-58432,S503,Dumbbells,9,31-08-2024,109.26,1001,Germany,Katherine Romero,Sports
+INV-20231,C204,Sneakers,5,14-10-2024,78.94,1026,Germany,Harry Daniel,Clothing
+INV-40479,S504,Running Shoes,5,02-09-2024,63.26,1003,Canada,Andrew White,Sports
+INV-54765,B402,Shampoo,2,28-07-2024,95.52,1081,India,James Frost,Beauty
+INV-42993,H301,Blender,9,04-07-2024,71.31,1034,USA,Eric Reynolds,Home & Kitchen
+INV-34881,C202,Jeans,6,29-03-2024,72.94,1056,USA,Walter Bell,Clothing
+INV-83136,H303,Vacuum Cleaner,10,26-08-2024,240.02,1046,Germany,William Taylor,Home & Kitchen
+INV-82950,C202,Jeans,4,03-01-2025,245.91,1000,France,Sandra Dennis,Clothing
+INV-62612,S503,Dumbbells,4,28-09-2024,29.11,1022,France,Terry Berry,Sports
+INV-91780,B402,Shampoo,8,13-12-2024,496.49,1047,Germany,David Bradley,Beauty
+INV-33151,S504,Running Shoes,3,14-07-2024,398.83,1046,India,Kathleen Reid,Sports
+INV-40601,C203,Jacket,1,02-12-2024,215.8,1043,India,Paul Lowe,Clothing
+INV-70932,C202,Jeans,2,19-04-2024,172.85,1033,France,Joshua Horton,Clothing
+INV-73314,H304,Air Fryer,2,26-04-2024,401.05,1060,Japan,Matthew Hull,Home & Kitchen
+INV-95813,S504,Running Shoes,4,15-08-2024,264.62,1026,Japan,Philip Williams,Sports
+INV-68872,E103,Wireless Earbuds,3,16-03-2025,494.22,1047,Japan,Andrew Wall,Electronics
+INV-46835,E104,Smartwatch,5,14-01-2025,95.87,1087,UK,Anthony Thomas,Electronics
+INV-44458,H304,Air Fryer,5,18-07-2024,9.08,1047,USA,John Williams,Home & Kitchen
+INV-55871,C204,Sneakers,3,22-09-2024,348.83,1082,Canada,Katherine Mendez,Clothing
+INV-60126,S501,Football,8,28-05-2024,405.91,1089,Australia,Bill King,Sports
+INV-63921,H303,Vacuum Cleaner,4,05-03-2025,145.23,1012,UK,David Smith,Home & Kitchen
+INV-62259,S504,Running Shoes,6,18-09-2024,9.86,1061,Germany,Tanya Clay,Sports
+INV-55202,S504,Running Shoes,9,17-07-2024,17.69,1038,UK,Ashley Mayer,Sports
+INV-90607,B401,Face Cream,1,11-11-2024,187.73,1095,France,Roger Nunez,Beauty
+INV-99787,B404,Perfume,2,13-01-2025,328.2,1081,Australia,Victor Mendoza,Beauty
+INV-49105,H301,Blender,8,30-08-2024,124.47,1062,Canada,Mary Butler,Home & Kitchen
+INV-74467,C201,T-Shirt,3,29-07-2024,465.68,1042,UK,Kevin Solis,Clothing
+INV-60536,C202,Jeans,1,09-04-2024,179.44,1029,Canada,Anthony Schmidt,Clothing
+INV-37457,S503,Dumbbells,1,07-06-2024,176,1097,India,Michael Moss,Sports
+INV-66169,H303,Vacuum Cleaner,8,21-11-2024,339.34,1015,USA,Jennifer Higgins,Home & Kitchen
+INV-80272,C203,Jacket,7,21-05-2024,93.55,1005,France,Kimberly Smith MD,Clothing
+INV-20334,H303,Vacuum Cleaner,9,18-10-2024,172.03,1065,Canada,Ms. Emily Swanson,Home & Kitchen
+INV-14550,H304,Air Fryer,1,10-10-2024,243.71,1075,France,Kirsten Lewis,Home & Kitchen
+INV-85354,H303,Vacuum Cleaner,1,07-09-2024,33.62,1084,Australia,Jennifer Morgan,Home & Kitchen
+INV-58531,H301,Blender,10,08-10-2024,175.89,1063,India,Michele Tyler,Home & Kitchen
+INV-98415,S503,Dumbbells,7,06-09-2024,364.85,1091,France,Christine Hartman,Sports
+INV-19691,C202,Jeans,6,08-11-2024,115.85,1039,Canada,Brandy Little,Clothing
+INV-50127,S502,Yoga Mat,3,29-10-2024,118.13,1076,France,Ashley Casey,Sports
+INV-79833,C202,Jeans,7,24-12-2024,321.29,1078,Japan,Chelsea Brown,Clothing
+INV-24187,S502,Yoga Mat,4,23-08-2024,486.36,1072,France,Joshua Crane,Sports
+INV-32278,B401,Face Cream,10,05-05-2024,415.86,1011,UK,Kirsten Payne,Beauty
+INV-63732,B403,Lipstick,7,05-05-2024,392.67,1049,Canada,Debbie Andrews,Beauty
+INV-11436,B401,Face Cream,5,17-12-2024,257.45,1039,India,Christopher Richardson,Beauty
+INV-71858,E103,Wireless Earbuds,10,18-10-2024,312.45,1034,France,Rose Avery,Electronics
+INV-62528,B404,Perfume,2,07-10-2024,168.46,1073,India,Matthew Thompson,Beauty
+INV-74422,E104,Smartwatch,9,08-06-2024,244.64,1023,France,Levi Young,Electronics
+INV-53051,H301,Blender,9,21-04-2024,73.65,1060,USA,Tamara Richardson,Home & Kitchen
+INV-60412,S501,Football,10,02-12-2024,311.44,1064,USA,Megan Morrison,Sports
+INV-46216,B402,Shampoo,8,24-11-2024,47.48,1011,Germany,Brian Clark,Beauty
+INV-17408,H303,Vacuum Cleaner,4,30-01-2025,458.51,1100,Japan,Norman Rice,Home & Kitchen
+INV-66583,E101,Smartphone,9,31-12-2024,419.37,1032,France,Dylan Santos,Electronics
+INV-88553,S503,Dumbbells,10,18-12-2024,96.51,1013,UK,Erika Roberts,Sports
+INV-24579,C204,Sneakers,9,14-01-2025,457.52,1093,India,Katherine Horton,Clothing
+INV-33759,H301,Blender,7,02-09-2024,409.26,1009,USA,Anna Brown,Home & Kitchen
+INV-12556,E104,Smartwatch,9,23-05-2024,45.56,1087,Germany,Bradley Guzman,Electronics
+INV-24209,S504,Running Shoes,7,18-07-2024,79.91,1099,UK,Heather Fisher,Sports
+INV-67684,H302,Microwave,6,10-09-2024,85.92,1050,France,Michael Duncan,Home & Kitchen
+INV-65759,B401,Face Cream,2,20-04-2024,331.97,1024,France,James Simon,Beauty
+INV-33610,B404,Perfume,1,24-12-2024,402.9,1065,Germany,Mathew Pace,Beauty
+INV-40819,H302,Microwave,7,15-05-2024,288.15,1088,France,Jonathan Guerrero,Home & Kitchen
+INV-73128,B401,Face Cream,2,22-08-2024,128.16,1011,France,Angela Rogers,Beauty
+INV-73888,S501,Football,3,15-05-2024,483.34,1009,Germany,Aaron Hall,Sports
+INV-19023,E103,Wireless Earbuds,9,09-12-2024,123.3,1073,France,Heather Lewis,Electronics
+INV-63469,B404,Perfume,8,19-06-2024,93.41,1058,Australia,Kyle Rivera,Beauty
+INV-35912,B403,Lipstick,5,30-01-2025,173.31,1074,USA,Vickie Cross,Beauty
+INV-91554,C202,Jeans,8,04-07-2024,249,1062,Australia,Sara White,Clothing
+INV-33102,H303,Vacuum Cleaner,8,17-07-2024,218.2,1089,USA,John Hamilton,Home & Kitchen
+INV-74884,S504,Running Shoes,5,17-07-2024,192.41,1089,Australia,Joseph Johnson,Sports
+INV-47324,E104,Smartwatch,10,28-02-2025,489.19,1036,France,Becky Phillips,Electronics
+INV-93625,S504,Running Shoes,4,26-06-2024,475.75,1069,Japan,Alexander Rosario,Sports
+INV-72009,S503,Dumbbells,1,08-04-2024,384.98,1043,Canada,Mark Andrade,Sports
+INV-27875,S502,Yoga Mat,8,25-08-2024,411.14,1099,Japan,Jose Richardson,Sports
+INV-79552,E102,Laptop,6,03-08-2024,264.99,1081,France,Stephen Morgan,Electronics
+INV-17555,E104,Smartwatch,5,26-04-2024,361.17,1100,Canada,Mary Cantrell,Electronics
+INV-35573,E101,Smartphone,1,05-09-2024,65.9,1080,India,Stephen Reed,Electronics
+INV-82398,C204,Sneakers,4,30-06-2024,33.19,1061,Germany,Elizabeth Barnes,Clothing
+INV-34749,H301,Blender,10,02-12-2024,70.13,1087,France,Leslie Brown,Home & Kitchen
+INV-42001,H304,Air Fryer,7,22-08-2024,405.44,1034,Canada,Kenneth Hughes,Home & Kitchen
+INV-87380,C202,Jeans,6,21-03-2024,25.95,1042,Germany,Tammy George,Clothing
+INV-48672,B401,Face Cream,3,22-10-2024,223.33,1034,Canada,Heidi Beltran,Beauty
+INV-36957,B404,Perfume,1,09-10-2024,374.78,1096,Canada,Daniel Clark,Beauty
+INV-45116,E101,Smartphone,1,20-01-2025,426.65,1015,Canada,Todd Jones,Electronics
+INV-49037,E104,Smartwatch,2,08-01-2025,256.84,1067,India,Lisa Elliott,Electronics
+INV-73620,B404,Perfume,9,23-04-2024,188.05,1062,Japan,Rodney Wolfe,Beauty
+INV-16934,C203,Jacket,9,27-11-2024,328.34,1037,USA,Tyler Hansen,Clothing
+INV-85642,C203,Jacket,1,28-03-2024,71.82,1036,France,Isaac White,Clothing
+INV-25644,S501,Football,5,15-06-2024,20.71,1009,France,George Potter,Sports
+INV-87985,C203,Jacket,9,14-03-2025,405.6,1079,UK,Brandy Martinez,Clothing
+INV-83704,H303,Vacuum Cleaner,9,25-12-2024,242.03,1026,Germany,Jose Morales,Home & Kitchen
+INV-98264,E101,Smartphone,8,05-04-2024,121.02,1020,France,Connor Haynes,Electronics
+INV-74893,B404,Perfume,2,31-05-2024,484.22,1046,Germany,Melissa Coleman,Beauty
+INV-83675,S502,Yoga Mat,10,25-04-2024,85.66,1005,India,Mary Singh,Sports
+INV-22178,C201,T-Shirt,9,27-03-2024,252.53,1004,India,Destiny Jones,Clothing
+INV-55988,S501,Football,6,10-08-2024,52.02,1065,Germany,Albert Randall,Sports
+INV-96632,E102,Laptop,2,29-12-2024,400.9,1056,UK,Steven James,Electronics
+INV-80658,H304,Air Fryer,8,30-07-2024,237.3,1098,Canada,Casey Collins,Home & Kitchen
+INV-48662,E104,Smartwatch,9,24-10-2024,338.11,1088,France,Amanda Hoover,Electronics
+INV-88997,B403,Lipstick,1,18-02-2025,407.01,1076,Germany,Wendy Stanley,Beauty
+INV-23318,C204,Sneakers,8,29-07-2024,93.05,1031,Japan,Bradley Campbell,Clothing
+INV-13588,C204,Sneakers,4,22-02-2025,419.72,1027,Japan,Geoffrey West,Clothing
+INV-38773,S502,Yoga Mat,10,01-03-2025,86.76,1043,Canada,Chris Martin,Sports
+INV-78043,C202,Jeans,10,09-01-2025,97.63,1059,UK,Michelle Schultz,Clothing
+INV-91433,B403,Lipstick,5,25-07-2024,76.29,1068,India,Bobby Ortiz,Beauty
+INV-19137,H304,Air Fryer,1,01-06-2024,9.37,1001,Australia,Jason Hoover,Home & Kitchen
+INV-71155,H304,Air Fryer,6,27-09-2024,146.6,1085,UK,Tammy Barnes,Home & Kitchen
+INV-86377,E102,Laptop,6,28-11-2024,250.71,1074,India,Erik Wilson,Electronics
+INV-64116,C204,Sneakers,8,14-10-2024,130.97,1053,Japan,Shawn Price,Clothing
+INV-30738,C202,Jeans,1,26-06-2024,399.3,1070,USA,Holly Grant,Clothing
+INV-12149,B404,Perfume,5,24-06-2024,326.17,1072,France,Troy Gallegos,Beauty
+INV-22069,S504,Running Shoes,3,05-03-2025,356.87,1027,France,Shannon Smith,Sports
+INV-48156,H302,Microwave,3,15-09-2024,67.82,1040,Germany,Bradley Oconnor,Home & Kitchen
+INV-25909,H303,Vacuum Cleaner,1,25-09-2024,376.08,1049,Australia,James Blake,Home & Kitchen
+INV-36948,B404,Perfume,3,25-11-2024,287.1,1039,India,Kristina Bishop,Beauty
+INV-89319,H304,Air Fryer,7,14-04-2024,471.44,1011,Japan,Lisa Brown,Home & Kitchen
+INV-72890,S502,Yoga Mat,6,15-05-2024,229.54,1046,Canada,Peter Ayala,Sports
+INV-89825,S503,Dumbbells,5,10-06-2024,222.3,1017,France,Breanna Faulkner,Sports
+INV-23256,H304,Air Fryer,2,07-01-2025,172.35,1082,UK,Eric Braun,Home & Kitchen
+INV-11499,H301,Blender,9,18-10-2024,386,1040,UK,Mckenzie Wilson,Home & Kitchen
+INV-72621,B401,Face Cream,7,06-08-2024,154.19,1100,Canada,Deborah Watkins,Beauty
+INV-76566,C204,Sneakers,4,27-09-2024,135.45,1022,Germany,Ryan Anderson,Clothing
+INV-41214,B401,Face Cream,1,21-03-2024,419.84,1064,India,Matthew Martin,Beauty
+INV-52593,C203,Jacket,8,01-04-2024,327.35,1060,France,Peter Harris,Clothing
+INV-33164,H301,Blender,5,14-08-2024,19.13,1008,France,Mary Patel,Home & Kitchen
+INV-48288,B401,Face Cream,7,26-05-2024,312.16,1073,Canada,Sharon Hawkins,Beauty
+INV-83110,E103,Wireless Earbuds,9,22-05-2024,341.55,1079,UK,Brian Bell,Electronics
+INV-89268,H302,Microwave,5,11-12-2024,140.21,1023,Canada,Mary Gonzalez,Home & Kitchen
+INV-91771,B402,Shampoo,2,02-02-2025,443.99,1065,Australia,Tracy Hanson,Beauty
+INV-57123,H303,Vacuum Cleaner,4,13-12-2024,288.33,1030,Germany,Matthew Russell,Home & Kitchen
+INV-27342,B401,Face Cream,2,13-01-2025,362.66,1027,Australia,Jared Johnson,Beauty
+INV-73703,S502,Yoga Mat,5,14-04-2024,459.85,1024,France,Sandra Wright,Sports
+INV-61022,B402,Shampoo,10,28-12-2024,232.95,1086,India,Dawn Hill,Beauty
+INV-75010,C204,Sneakers,10,23-12-2024,215.12,1043,Japan,Jerry Martinez,Clothing
+INV-22534,B401,Face Cream,10,06-03-2025,224.54,1006,USA,Philip Murillo,Beauty
+INV-92754,B404,Perfume,9,31-01-2025,245.68,1045,Japan,Katie Allen,Beauty
+INV-40268,S502,Yoga Mat,1,25-04-2024,85.11,1074,Germany,Victoria Maxwell,Sports
+INV-14245,H302,Microwave,8,19-03-2025,249.27,1036,Japan,Mary Diaz,Home & Kitchen
+INV-22496,H301,Blender,2,19-05-2024,191.62,1032,Germany,Adam Quinn,Home & Kitchen
+INV-38838,E102,Laptop,3,08-06-2024,343.48,1015,France,Pamela Phillips,Electronics
+INV-79425,C202,Jeans,8,17-02-2025,188.01,1074,India,Marcus Smith,Clothing
+INV-43591,C201,T-Shirt,9,22-09-2024,495.5,1078,Canada,Mitchell Fox DDS,Clothing
+INV-32584,C201,T-Shirt,5,21-10-2024,279.17,1090,Canada,Jennifer Delgado,Clothing
+INV-84473,S504,Running Shoes,2,25-06-2024,456.49,1091,France,Kevin Lee,Sports
+INV-98857,S502,Yoga Mat,1,07-08-2024,338.31,1044,Germany,Christine Johnson,Sports
+INV-24755,E102,Laptop,3,02-08-2024,485.56,1083,UK,John Ferguson,Electronics
+INV-43857,B403,Lipstick,8,13-11-2024,335.01,1077,UK,Frank White,Beauty
+INV-18312,C203,Jacket,6,28-07-2024,252.94,1058,Germany,Gary Banks,Clothing
+INV-15935,C203,Jacket,5,10-04-2024,463.91,1080,Australia,Christopher Ortiz,Clothing
+INV-26376,C203,Jacket,1,05-08-2024,490.38,1084,UK,Lisa Morgan,Clothing
+INV-11235,E102,Laptop,10,28-06-2024,328.03,1013,France,Shawn Martinez,Electronics
+INV-25577,B403,Lipstick,6,19-04-2024,224.12,1055,India,Christina Mason,Beauty
+INV-11235,C202,Jeans,3,09-05-2024,397.04,1076,UK,Marissa Hawkins,Clothing
+INV-13652,E103,Wireless Earbuds,8,01-08-2024,45.4,1028,India,Laura Davidson,Electronics
+INV-72312,S504,Running Shoes,1,19-01-2025,240.32,1091,Australia,Heather Buckley,Sports
+INV-52024,H303,Vacuum Cleaner,7,09-02-2025,69.78,1026,USA,Sarah Jacobson,Home & Kitchen
+INV-42277,H303,Vacuum Cleaner,1,24-10-2024,171.19,1018,Australia,Jacob James,Home & Kitchen
+INV-61253,B403,Lipstick,2,14-12-2024,255.9,1004,France,Robert Wong,Beauty
+INV-38696,E103,Wireless Earbuds,6,16-05-2024,256.97,1043,USA,Paul Wilson,Electronics
+INV-96712,C203,Jacket,3,03-05-2024,451.71,1017,UK,Jeffrey Garcia,Clothing
+INV-44673,E104,Smartwatch,5,07-03-2025,37.84,1093,Germany,Shawn Flores,Electronics
+INV-83244,E102,Laptop,8,23-11-2024,392.24,1002,Germany,James Tyler,Electronics
+INV-49135,H303,Vacuum Cleaner,9,19-02-2025,218.42,1094,India,David Henry,Home & Kitchen
+INV-94095,H302,Microwave,7,10-03-2025,362.9,1015,Australia,Allison Schmidt,Home & Kitchen
+INV-14995,E101,Smartphone,5,18-04-2024,477.07,1093,Canada,Sonya Russell,Electronics
+INV-15318,S503,Dumbbells,8,26-05-2024,393.41,1037,Australia,John Russell,Sports
+INV-12630,B404,Perfume,7,07-02-2025,124.74,1001,USA,Kimberly Barrett,Beauty
+INV-74189,S503,Dumbbells,10,08-07-2024,73.91,1001,Japan,Shawn Clayton,Sports
+INV-82386,B403,Lipstick,5,25-06-2024,160.82,1003,Australia,Mercedes Lewis,Beauty
+INV-36287,C202,Jeans,10,09-11-2024,244.87,1076,Canada,Lawrence Perez,Clothing
+INV-33368,E104,Smartwatch,4,02-10-2024,70.14,1089,Japan,Matthew Schmidt,Electronics
+INV-17241,B402,Shampoo,1,15-06-2024,314.78,1042,India,Tamara Mclaughlin,Beauty
+INV-33528,B402,Shampoo,10,14-02-2025,281.47,1075,UK,Vanessa Anderson,Beauty
+INV-10943,B402,Shampoo,3,08-04-2024,66.25,1017,France,Mrs. Amy Pugh,Beauty
+INV-70100,S504,Running Shoes,8,16-06-2024,133.44,1030,Japan,Jesus Donovan,Sports
+INV-65132,E102,Laptop,2,01-08-2024,330.07,1020,Japan,Sierra Brown,Electronics
+INV-89120,H304,Air Fryer,9,24-05-2024,28.18,1018,USA,James Wall,Home & Kitchen
+INV-94182,E102,Laptop,5,31-12-2024,33.35,1008,Canada,Tiffany Duke,Electronics
+INV-38107,E102,Laptop,5,19-09-2024,455.26,1051,Canada,Ricardo Reyes,Electronics
+INV-29703,C201,T-Shirt,2,23-12-2024,473.36,1080,USA,Jeffrey Ellis,Clothing
+INV-36468,B402,Shampoo,2,20-12-2024,51.04,1008,UK,Kimberly Clark,Beauty
+INV-66424,C202,Jeans,1,01-01-2025,219.95,1091,Australia,Larry Lynch,Clothing
+INV-40323,E103,Wireless Earbuds,6,24-03-2024,482.08,1066,Japan,Melissa Burch,Electronics
+INV-20277,E102,Laptop,4,12-03-2025,421.61,1013,India,Joshua Thompson,Electronics
+INV-81338,S504,Running Shoes,10,30-09-2024,140.1,1020,France,Thomas Cain,Sports
+INV-61975,H302,Microwave,2,07-01-2025,88.67,1008,USA,Taylor Martinez,Home & Kitchen
+INV-77171,B401,Face Cream,2,13-11-2024,49.74,1097,UK,Larry Yang,Beauty
+INV-93517,S504,Running Shoes,9,16-06-2024,349.79,1022,UK,Elijah Abbott,Sports
+INV-32493,S502,Yoga Mat,1,23-09-2024,426.57,1064,India,Keith Myers,Sports
+INV-17763,H303,Vacuum Cleaner,10,13-10-2024,272.28,1038,India,Sara Hall,Home & Kitchen
+INV-37409,E104,Smartwatch,4,07-04-2024,110.04,1044,France,Brandy Weeks,Electronics
+INV-94859,E104,Smartwatch,10,14-02-2025,83.18,1027,Germany,Brandon Perry,Electronics
+INV-79117,C202,Jeans,7,26-09-2024,377.47,1093,UK,Scott Spencer,Clothing
+INV-40015,S501,Football,7,29-01-2025,63.08,1012,Japan,Jeffery Freeman,Sports
+INV-46186,C204,Sneakers,2,04-10-2024,199.78,1001,Canada,Toni Hanson,Clothing
+INV-94927,S501,Football,2,04-01-2025,420.24,1005,Germany,Abigail Stevens,Sports
+INV-82841,E102,Laptop,3,15-01-2025,29.37,1063,Canada,Allison Pruitt,Electronics
+INV-89653,C201,T-Shirt,1,10-12-2024,442.55,1056,Germany,Joshua Marquez,Clothing
+INV-80758,C204,Sneakers,9,25-01-2025,295.85,1001,Japan,Laura Mason,Clothing
+INV-72371,C203,Jacket,3,26-06-2024,277.19,1012,Canada,Carlos Gonzalez,Clothing
+INV-95753,S501,Football,3,08-12-2024,397.51,1073,Germany,Elaine Pham,Sports
+INV-20680,B402,Shampoo,1,28-08-2024,498.53,1000,UK,Lisa Newton,Beauty
+INV-67897,S504,Running Shoes,1,27-06-2024,117.1,1073,India,Catherine Carter,Sports
+INV-26296,E104,Smartwatch,6,24-04-2024,274.99,1049,Australia,Wendy Leon,Electronics
+INV-43920,E102,Laptop,4,26-01-2025,380.58,1065,UK,Rodney Boone,Electronics
+INV-65520,H302,Microwave,4,24-10-2024,482.77,1058,USA,Ryan Daniels,Home & Kitchen
+INV-65757,C203,Jacket,4,24-04-2024,446.34,1098,Canada,Nicole Mejia,Clothing
+INV-61797,C204,Sneakers,7,04-02-2025,30.14,1095,France,Katie Hart,Clothing
+INV-38847,E103,Wireless Earbuds,5,23-08-2024,89.51,1086,India,John Rodriguez,Electronics
+INV-96197,S503,Dumbbells,2,04-05-2024,284.44,1062,UK,Angela Garcia,Sports
+INV-28321,E102,Laptop,4,31-03-2024,188.17,1027,UK,Denise Finley,Electronics
+INV-38245,E103,Wireless Earbuds,1,28-03-2024,420.29,1002,India,Mary Dillon,Electronics
+INV-67937,C204,Sneakers,2,13-12-2024,238.36,1071,India,Beth Perez,Clothing
+INV-49819,C201,T-Shirt,5,11-05-2024,323.85,1055,Germany,Cody Morgan,Clothing
+INV-20806,H304,Air Fryer,8,05-12-2024,69.93,1051,UK,Isabella Rivera,Home & Kitchen
+INV-42245,E103,Wireless Earbuds,5,22-11-2024,145.97,1039,USA,Susan Smith,Electronics
+INV-46716,E104,Smartwatch,7,05-08-2024,482.83,1041,Japan,Michael Mitchell,Electronics
+INV-87472,S501,Football,5,12-07-2024,283.97,1055,Japan,Diana Sanders,Sports
+INV-24336,H303,Vacuum Cleaner,3,09-03-2025,366.2,1055,India,Sarah Nguyen,Home & Kitchen
+INV-19709,H303,Vacuum Cleaner,8,18-11-2024,422.19,1055,Canada,Amy Johnson,Home & Kitchen
+INV-17776,H303,Vacuum Cleaner,3,10-09-2024,267.24,1060,UK,Maureen Flores,Home & Kitchen
+INV-86953,B404,Perfume,1,17-12-2024,31.95,1094,Japan,Justin Hanna,Beauty
+INV-10110,B404,Perfume,9,24-01-2025,470.66,1096,USA,Edwin Rowland,Beauty
+INV-98896,H301,Blender,5,10-10-2024,457.87,1008,Canada,Elizabeth Ellis,Home & Kitchen
+INV-91623,B401,Face Cream,7,02-02-2025,145.2,1039,Germany,Kerry Doyle,Beauty
+INV-20618,H303,Vacuum Cleaner,4,20-12-2024,264.72,1081,Canada,Jake Mendez,Home & Kitchen
+INV-87274,C202,Jeans,3,20-05-2024,271.26,1020,Canada,Nicole Hughes,Clothing
+INV-30145,E104,Smartwatch,10,07-06-2024,410.15,1029,France,Christopher Thompson,Electronics
+INV-65552,C204,Sneakers,9,11-05-2024,427.74,1001,Canada,Robert Larson,Clothing
+INV-29674,H303,Vacuum Cleaner,1,01-03-2025,386.77,1019,UK,Douglas Hubbard,Home & Kitchen
+INV-52769,B401,Face Cream,8,21-07-2024,84.16,1049,Canada,Tammy Carter,Beauty
+INV-90117,H301,Blender,7,24-09-2024,149.53,1083,Australia,Carl Vance,Home & Kitchen
+INV-89304,C202,Jeans,3,07-11-2024,269.35,1035,Australia,Paul Martinez,Clothing
+INV-36146,E101,Smartphone,3,23-12-2024,458.03,1062,Canada,Mark Jefferson,Electronics
+INV-50869,B403,Lipstick,8,24-07-2024,297.1,1071,France,Jennifer Kelley,Beauty
+INV-59659,S503,Dumbbells,2,24-12-2024,109.22,1061,Australia,Melissa Tucker,Sports
+INV-73373,B402,Shampoo,3,29-04-2024,34.79,1095,USA,Debra Gonzalez,Beauty
+INV-58511,E103,Wireless Earbuds,10,07-02-2025,271.59,1036,Germany,Linda Tate,Electronics
+INV-28307,E103,Wireless Earbuds,9,06-11-2024,8.75,1078,Japan,Michael Fisher,Electronics
+INV-65144,B404,Perfume,3,19-01-2025,11.17,1064,Germany,Gary Wilson,Beauty
+INV-52137,S503,Dumbbells,1,27-12-2024,276.43,1017,India,Suzanne Gibson,Sports
+INV-48911,B402,Shampoo,8,27-01-2025,365.26,1049,UK,Tommy Patton,Beauty
+INV-40881,H302,Microwave,5,25-12-2024,472.66,1037,Australia,Lauren Li,Home & Kitchen
+INV-31365,E101,Smartphone,8,17-12-2024,236.92,1081,UK,Richard Woods,Electronics
+INV-11545,H303,Vacuum Cleaner,5,30-04-2024,117.77,1010,UK,Luis Fritz,Home & Kitchen
+INV-94223,B404,Perfume,1,17-02-2025,211.85,1001,Japan,Jessica Hardy,Beauty
+INV-15668,E101,Smartphone,9,27-09-2024,410.54,1015,Canada,John Cooper,Electronics
+INV-76982,H303,Vacuum Cleaner,4,17-09-2024,175.66,1027,Canada,Sheri Hanson,Home & Kitchen
+INV-93081,B402,Shampoo,5,24-08-2024,400.71,1092,Japan,Regina Savage,Beauty
+INV-48806,B402,Shampoo,8,13-12-2024,144.95,1074,Canada,Charles Joseph,Beauty
+INV-32203,E103,Wireless Earbuds,1,13-01-2025,264.34,1082,Japan,Cassie Rocha,Electronics
+INV-52228,H304,Air Fryer,8,17-12-2024,182.52,1004,Canada,Dillon Cook,Home & Kitchen
+INV-73958,S502,Yoga Mat,1,21-05-2024,166.14,1029,UK,Catherine Williams,Sports
+INV-77746,E102,Laptop,10,16-07-2024,336.24,1067,Germany,Annette Mercado,Electronics
+INV-24576,E102,Laptop,7,17-03-2025,336.22,1065,Australia,Kenneth Reid,Electronics
+INV-92595,B402,Shampoo,8,21-12-2024,138.75,1020,India,Cindy Page,Beauty
+INV-95998,S503,Dumbbells,10,29-05-2024,395.08,1006,France,Kristin Hernandez,Sports
+INV-57588,E101,Smartphone,8,05-08-2024,305.04,1082,Canada,Daniel Miller,Electronics
+INV-38360,C203,Jacket,10,13-01-2025,47.42,1005,France,Ryan Williams,Clothing
+INV-29760,E101,Smartphone,7,15-11-2024,438.11,1095,India,Matthew Myers,Electronics
+INV-88974,H304,Air Fryer,2,10-12-2024,483.94,1072,Australia,Walter Graves,Home & Kitchen
+INV-42714,C201,T-Shirt,8,15-07-2024,66.23,1063,Germany,Tyler Holt,Clothing
+INV-62203,S502,Yoga Mat,4,06-01-2025,480.72,1098,Germany,Michael Martin,Sports
+INV-52686,C203,Jacket,6,13-03-2025,98.51,1050,Japan,Victoria Burke,Clothing
+INV-87275,C203,Jacket,8,18-04-2024,266.09,1012,France,Robert Reyes,Clothing
+INV-82558,S501,Football,6,23-11-2024,288.18,1024,India,Shawn Peck,Sports
+INV-32733,H301,Blender,8,06-06-2024,420.59,1055,Canada,Shawn Green,Home & Kitchen
+INV-59418,B401,Face Cream,6,15-05-2024,72.9,1064,Japan,Jason Thomas,Beauty
+INV-87455,H301,Blender,9,30-06-2024,31.62,1065,Australia,Michelle Brown,Home & Kitchen
+INV-36751,E102,Laptop,5,25-05-2024,130.34,1100,USA,Nichole Bailey,Electronics
+INV-88152,S504,Running Shoes,5,27-08-2024,191.74,1057,Japan,John Guzman,Sports
+INV-35469,S503,Dumbbells,5,21-12-2024,46.06,1021,Japan,Kimberly Douglas,Sports
+INV-30977,B403,Lipstick,4,16-11-2024,340.24,1043,USA,Taylor Downs,Beauty
+INV-61507,E101,Smartphone,10,20-08-2024,228.69,1033,Germany,Allison Peters,Electronics
+INV-24747,H304,Air Fryer,7,01-12-2024,63.2,1061,France,Anthony Solis,Home & Kitchen
+INV-14229,S504,Running Shoes,9,22-10-2024,308.78,1013,France,David Morris,Sports
+INV-75252,S503,Dumbbells,5,10-09-2024,124.52,1097,UK,Tara Kline,Sports
+INV-89700,B404,Perfume,2,17-04-2024,122.34,1081,Germany,Jennifer Miller,Beauty
+INV-56469,H304,Air Fryer,5,04-01-2025,338.16,1008,USA,Christopher Melton,Home & Kitchen
+INV-18344,B401,Face Cream,9,11-11-2024,236.86,1090,Japan,Deborah Rivas,Beauty
+INV-66539,C201,T-Shirt,6,09-03-2025,185.53,1051,France,Darryl Hayden DVM,Clothing
+INV-10435,C201,T-Shirt,6,10-08-2024,159.41,1022,UK,Kelly Christian,Clothing
+INV-55228,E103,Wireless Earbuds,7,20-05-2024,33.04,1024,Japan,Aaron Callahan,Electronics
+INV-84052,H303,Vacuum Cleaner,6,15-06-2024,240.65,1097,Japan,Jacob Keller,Home & Kitchen
+INV-54867,S504,Running Shoes,3,02-05-2024,198.92,1069,France,Sara Lewis,Sports
+INV-41756,B401,Face Cream,7,22-01-2025,441.97,1053,India,Jacob Escobar,Beauty
+INV-84578,E102,Laptop,4,02-07-2024,460.19,1004,Japan,Ms. Lisa Hernandez,Electronics
+INV-21800,E101,Smartphone,8,22-08-2024,201.01,1023,India,Angela Hill,Electronics
+INV-16229,C202,Jeans,5,02-03-2025,477.88,1010,Germany,Willie Phillips,Clothing
+INV-28838,E104,Smartwatch,2,09-11-2024,346.31,1060,Germany,Kara Townsend,Electronics
+INV-25353,B403,Lipstick,9,19-12-2024,227.02,1067,USA,Robert Leonard,Beauty
+INV-59486,C203,Jacket,4,19-05-2024,82.57,1099,Japan,Amy Ward,Clothing
+INV-63376,B402,Shampoo,2,29-07-2024,286.8,1061,Australia,Rick Mckee,Beauty
+INV-74771,S501,Football,8,10-02-2025,324.25,1014,Germany,Daniel Warner,Sports
+INV-39251,H301,Blender,9,16-12-2024,137.31,1013,France,Alan Lester,Home & Kitchen
+INV-23112,B401,Face Cream,6,20-10-2024,407.08,1080,India,Angela Williams,Beauty
+INV-17054,B403,Lipstick,3,23-07-2024,414.17,1005,Canada,Katie Barton,Beauty
+INV-53951,C204,Sneakers,8,28-07-2024,171.64,1059,Australia,Erik Ford,Clothing
+INV-81587,S502,Yoga Mat,6,21-02-2025,73.28,1001,France,Jean Mcclain,Sports
+INV-65005,B403,Lipstick,1,02-11-2024,16.77,1028,India,Patricia Phillips,Beauty
+INV-74872,E102,Laptop,9,22-02-2025,39.73,1071,Canada,Kimberly Webb,Electronics
+INV-21754,E101,Smartphone,5,05-08-2024,132.51,1066,UK,Kimberly Watkins,Electronics
+INV-95673,E101,Smartphone,1,11-05-2024,256.45,1077,USA,Jennifer Whitney,Electronics
+INV-42915,E101,Smartphone,7,10-03-2025,351.38,1048,USA,Carla Stewart,Electronics
+INV-20356,C201,T-Shirt,9,14-04-2024,266.2,1012,Japan,Jeffery Lucas,Clothing
+INV-21245,C201,T-Shirt,10,16-05-2024,59.74,1048,Australia,Jennifer Horne,Clothing
+INV-24117,E103,Wireless Earbuds,1,14-07-2024,160.18,1040,Canada,Christopher Kennedy,Electronics
+INV-13208,S504,Running Shoes,4,18-02-2025,429.74,1003,USA,Douglas Ramos,Sports
+INV-55537,H301,Blender,3,12-12-2024,22.37,1050,Australia,Lisa Ramos,Home & Kitchen
+INV-11413,C204,Sneakers,10,29-05-2024,315.72,1051,Canada,James Johnston,Clothing
+INV-89561,B403,Lipstick,10,21-06-2024,59.04,1087,USA,Beth Hernandez,Beauty
+INV-87216,S501,Football,2,04-06-2024,103.93,1040,Australia,Stephanie Gomez,Sports
+INV-63930,E103,Wireless Earbuds,10,30-09-2024,249.39,1070,India,Laura Arnold,Electronics
+INV-41116,C202,Jeans,10,28-06-2024,274.98,1096,Japan,Oscar Reynolds,Clothing
+INV-63068,B401,Face Cream,1,15-10-2024,20.59,1065,Canada,Kathleen Maxwell,Beauty
+INV-28072,H301,Blender,6,26-03-2024,94.05,1073,Japan,Casey Ferguson,Home & Kitchen
+INV-25339,S504,Running Shoes,3,14-03-2025,451.2,1075,India,Mrs. Laurie Perry,Sports
+INV-74055,S504,Running Shoes,7,20-01-2025,64.71,1078,Australia,Mark Mcdonald,Sports
+INV-78497,H302,Microwave,5,14-05-2024,282.33,1075,UK,Andrew Newton,Home & Kitchen
+INV-44063,E103,Wireless Earbuds,3,04-09-2024,258.46,1067,UK,Beth Huff,Electronics
+INV-40829,B404,Perfume,8,08-07-2024,222.1,1095,UK,Shannon Burns,Beauty
+INV-42515,C201,T-Shirt,7,26-12-2024,286.31,1094,USA,Kelly Anderson,Clothing
+INV-71933,B402,Shampoo,6,03-03-2025,133.34,1009,Australia,Johnny Johnson,Beauty
+INV-49946,E101,Smartphone,3,18-11-2024,333.74,1067,Canada,Shawn Gomez,Electronics
+INV-19162,S504,Running Shoes,4,04-07-2024,8.92,1068,India,Victoria Forbes,Sports
+INV-95351,S504,Running Shoes,1,23-02-2025,102.8,1015,India,Ralph Beasley,Sports
+INV-60693,B404,Perfume,3,17-10-2024,354.78,1010,USA,Caroline Daniels,Beauty
+INV-55489,B404,Perfume,7,13-02-2025,88.55,1082,Australia,Tara Foster,Beauty
+INV-60290,H303,Vacuum Cleaner,7,25-04-2024,166.99,1085,Japan,Carlos Newton,Home & Kitchen
+INV-78119,E101,Smartphone,3,13-07-2024,357.66,1076,UK,Julie Evans,Electronics
+INV-91340,H304,Air Fryer,10,14-12-2024,438,1046,Japan,Mrs. Erica Turner,Home & Kitchen
+INV-19739,S504,Running Shoes,7,07-03-2025,113.48,1045,USA,Kelsey Ingram,Sports
+INV-81836,H304,Air Fryer,2,23-04-2024,310.05,1016,Australia,Brian Shelton,Home & Kitchen
+INV-26712,E104,Smartwatch,4,24-08-2024,352.94,1050,Japan,Angela Hale,Electronics
+INV-54939,S503,Dumbbells,4,20-05-2024,235.42,1033,USA,Kelly Hawkins,Sports
+INV-89175,S503,Dumbbells,2,14-10-2024,357.78,1064,UK,Sandra Miles,Sports
+INV-14999,H301,Blender,7,09-03-2025,94.53,1003,Canada,Jose Terrell,Home & Kitchen
+INV-63854,B403,Lipstick,6,10-02-2025,467.77,1003,Canada,Sheena Lee,Beauty
+INV-86637,E101,Smartphone,2,18-12-2024,56.13,1019,USA,Courtney Tran,Electronics
+INV-45291,B404,Perfume,8,10-06-2024,160.21,1070,UK,Melissa Hatfield,Beauty
+INV-80390,C204,Sneakers,4,19-09-2024,194.4,1002,India,Mr. Jeffrey Ferguson,Clothing
+INV-96281,E104,Smartwatch,4,24-05-2024,283.76,1074,Australia,Mrs. Patricia Day,Electronics
+INV-99508,B403,Lipstick,2,27-11-2024,300.77,1071,Germany,Phillip Brown,Beauty
+INV-72694,H301,Blender,2,15-10-2024,134.83,1005,USA,Chad Clark,Home & Kitchen
+INV-84854,H303,Vacuum Cleaner,2,04-08-2024,358.48,1043,India,Tyler Lee,Home & Kitchen
+INV-10218,C201,T-Shirt,6,10-11-2024,82.1,1000,Germany,Tammy Page,Clothing
+INV-89429,H302,Microwave,7,11-08-2024,75.95,1013,Canada,Andrew Ortega,Home & Kitchen
+INV-99962,C201,T-Shirt,1,31-01-2025,222.34,1025,Japan,Todd White,Clothing
+INV-77673,H301,Blender,4,13-05-2024,53.79,1007,France,Jennifer Smith,Home & Kitchen
+INV-67089,E103,Wireless Earbuds,6,05-11-2024,308.59,1023,France,Veronica Ramirez DDS,Electronics
+INV-29889,S504,Running Shoes,1,26-06-2024,203.19,1045,Germany,Nancy Myers,Sports
+INV-27549,H304,Air Fryer,3,27-01-2025,120.56,1008,France,Ralph Hammond,Home & Kitchen
+INV-29949,E101,Smartphone,7,01-11-2024,386.16,1087,Canada,Zachary Elliott,Electronics
+INV-25654,C202,Jeans,3,22-04-2024,242.42,1068,Germany,Allen Bryant,Clothing
+INV-88974,E103,Wireless Earbuds,8,15-11-2024,40.08,1014,USA,Justin Walker,Electronics
+INV-22794,C202,Jeans,10,26-05-2024,326.23,1088,France,Sean Sosa,Clothing
+INV-75017,B404,Perfume,1,26-10-2024,227.17,1042,Germany,Maria Lozano,Beauty
+INV-29066,E104,Smartwatch,8,28-04-2024,299.01,1070,UK,Erik Lucas,Electronics
+INV-68708,C202,Jeans,2,31-01-2025,344.72,1097,India,Lori Morales,Clothing
+INV-95117,B404,Perfume,4,26-09-2024,417.53,1057,Japan,Joshua Taylor,Beauty
+INV-22511,H302,Microwave,10,28-01-2025,122.35,1013,USA,Kevin Olsen,Home & Kitchen
+INV-67414,B401,Face Cream,7,28-06-2024,180.09,1014,Australia,Lawrence Miller,Beauty
+INV-28966,E101,Smartphone,1,27-04-2024,415.27,1016,Australia,Julia Jones,Electronics
+INV-23636,E103,Wireless Earbuds,10,07-05-2024,292.82,1009,France,Jennifer Strickland,Electronics
+INV-61555,E102,Laptop,9,03-09-2024,290.33,1030,Japan,Elizabeth Baker,Electronics
+INV-15734,S502,Yoga Mat,2,16-08-2024,283.16,1007,Australia,Amanda Edwards,Sports
+INV-64837,C204,Sneakers,8,26-12-2024,288.2,1061,France,Amy Watson,Clothing
+INV-84167,H303,Vacuum Cleaner,3,03-11-2024,232.01,1017,India,Nicholas Thomas,Home & Kitchen
+INV-53821,S503,Dumbbells,10,31-03-2024,87.99,1032,Canada,Justin Marshall,Sports
+INV-32218,S504,Running Shoes,8,22-11-2024,459.79,1060,Australia,William Jennings,Sports
+INV-22729,B402,Shampoo,4,25-09-2024,15.92,1094,France,Nicholas Johnson,Beauty
+INV-84717,C203,Jacket,4,12-01-2025,46.78,1043,UK,Kimberly Robinson,Clothing
+INV-51566,E102,Laptop,2,10-10-2024,463.97,1066,Australia,Jeffrey Howard,Electronics
+INV-88919,H302,Microwave,5,23-07-2024,478.86,1037,India,Courtney Nelson,Home & Kitchen
+INV-19872,S502,Yoga Mat,10,15-09-2024,100.72,1096,India,Aaron Ross,Sports
+INV-54560,B402,Shampoo,5,26-09-2024,131.36,1044,UK,Corey Cook DDS,Beauty
+INV-11552,C202,Jeans,1,14-06-2024,461.7,1090,Germany,Michael Howe,Clothing
+INV-66483,B404,Perfume,1,27-12-2024,13.18,1072,India,Evan Rogers,Beauty
+INV-63568,S502,Yoga Mat,1,10-03-2025,275.34,1034,USA,Bruce Robinson,Sports
+INV-12186,H303,Vacuum Cleaner,10,12-08-2024,204.44,1084,Japan,Victor Rice,Home & Kitchen
+INV-73164,E101,Smartphone,4,21-08-2024,475.16,1093,France,Judy Smith,Electronics
+INV-81790,E101,Smartphone,9,08-10-2024,226.06,1021,UK,Lisa Diaz,Electronics
+INV-69918,C203,Jacket,1,05-02-2025,285.14,1036,Germany,Stacey Taylor,Clothing
+INV-70750,B404,Perfume,5,02-08-2024,493.62,1002,UK,Kimberly Landry,Beauty
+INV-90560,B402,Shampoo,7,15-07-2024,289.64,1041,Canada,Shelby Leon,Beauty
+INV-34361,H301,Blender,2,04-03-2025,126.37,1011,India,Blake Sims,Home & Kitchen
+INV-95463,S504,Running Shoes,1,22-09-2024,394.05,1084,Canada,Daniel Holden,Sports
+INV-47162,E103,Wireless Earbuds,3,10-07-2024,484.19,1020,Germany,Emily Russell,Electronics
+INV-33789,S502,Yoga Mat,2,17-11-2024,27.33,1021,Germany,Gabriel Buckley,Sports
+INV-29037,S501,Football,10,19-12-2024,45.8,1091,Germany,April Rivera,Sports
+INV-95913,H302,Microwave,4,22-07-2024,484.14,1029,India,Lisa Bell,Home & Kitchen
+INV-37038,E102,Laptop,5,16-10-2024,196.83,1067,Canada,Jennifer Smith,Electronics
+INV-94147,B401,Face Cream,3,03-10-2024,161.77,1078,Canada,Desiree Green,Beauty
+INV-76370,H302,Microwave,7,09-12-2024,164.2,1094,France,Jennifer Garcia,Home & Kitchen
+INV-18536,C203,Jacket,7,17-04-2024,124.76,1087,USA,Brianna Lam,Clothing
+INV-84754,E101,Smartphone,5,29-11-2024,428.07,1031,Germany,Cory Stone,Electronics
+INV-98048,H304,Air Fryer,9,28-09-2024,48.64,1054,Australia,Debra Fry,Home & Kitchen
+INV-14953,E103,Wireless Earbuds,1,11-02-2025,105.7,1098,Australia,Seth Carter,Electronics
+INV-16867,E101,Smartphone,8,08-01-2025,73.36,1025,France,Brian Santiago,Electronics
+INV-57817,S501,Football,8,18-03-2025,23.47,1025,USA,Diana Gonzalez,Sports
+INV-23597,B402,Shampoo,7,08-08-2024,300.58,1096,Japan,Jill Atkins,Beauty
+INV-72907,C202,Jeans,7,02-10-2024,256.19,1008,Canada,Jessica Williams,Clothing
+INV-80894,H302,Microwave,2,05-08-2024,405.2,1007,Japan,Taylor Dawson,Home & Kitchen
+INV-40821,H302,Microwave,9,06-06-2024,410.05,1098,Australia,Jennifer Dillon,Home & Kitchen
+INV-64155,H301,Blender,5,08-10-2024,373.93,1075,UK,Sean Edwards,Home & Kitchen
+INV-40680,H301,Blender,8,02-10-2024,16.82,1007,India,Cynthia Lee,Home & Kitchen
+INV-47388,H301,Blender,10,20-07-2024,5.72,1064,France,Marisa Garcia,Home & Kitchen
+INV-46095,C201,T-Shirt,4,14-08-2024,56.28,1031,Germany,Patricia Hudson,Clothing
+INV-89984,S501,Football,10,27-06-2024,428.93,1046,Germany,Jessica Perez,Sports
+INV-11915,E103,Wireless Earbuds,2,30-11-2024,9.98,1014,India,Cindy Henry,Electronics
+INV-87833,S501,Football,6,15-06-2024,485.52,1053,USA,Angela Waller,Sports
+INV-36917,E102,Laptop,10,25-01-2025,464.49,1063,France,Theodore Hancock,Electronics
+INV-88294,E103,Wireless Earbuds,7,09-05-2024,192.43,1036,USA,Sabrina Ali,Electronics
+INV-80905,C201,T-Shirt,7,12-02-2025,93.11,1032,India,Tara Simpson,Clothing
+INV-65348,B403,Lipstick,9,07-09-2024,391.99,1024,France,Jeanne Owens,Beauty
+INV-91851,C201,T-Shirt,9,09-05-2024,304.36,1045,Canada,Jared Reyes,Clothing
+INV-88649,H304,Air Fryer,1,13-06-2024,455.7,1022,UK,Kari Brown,Home & Kitchen
+INV-50597,E104,Smartwatch,4,21-01-2025,456.96,1091,Australia,Erin Davies MD,Electronics
+INV-62923,H303,Vacuum Cleaner,10,29-08-2024,103.55,1020,Japan,Stanley Rice,Home & Kitchen
+INV-93768,B403,Lipstick,5,29-09-2024,226.59,1083,France,Amanda Stokes,Beauty
+INV-46478,H303,Vacuum Cleaner,1,28-02-2025,480.52,1002,Germany,Monica Soto,Home & Kitchen
+INV-53340,H303,Vacuum Cleaner,2,14-06-2024,8.02,1072,USA,Eugene Alvarado,Home & Kitchen
+INV-70026,B402,Shampoo,6,26-02-2025,162.11,1028,Canada,Terry Osborne,Beauty
+INV-48029,S504,Running Shoes,10,07-09-2024,359.49,1009,Canada,Lindsey Martinez,Sports
+INV-93730,E102,Laptop,10,03-06-2024,436.38,1058,Japan,Cheryl Smith,Electronics
+INV-24762,E102,Laptop,2,25-03-2024,126.26,1015,Australia,Nicole Patel,Electronics
+INV-16753,B402,Shampoo,9,04-01-2025,142.52,1057,UK,Dr. Erica Patel,Beauty
+INV-90760,B404,Perfume,9,29-06-2024,434.5,1061,USA,David Kelly,Beauty
+INV-83078,H304,Air Fryer,4,09-01-2025,98.49,1036,Germany,Michael Rodgers,Home & Kitchen
+INV-37599,S503,Dumbbells,4,29-07-2024,491.35,1027,Germany,Anita Fleming,Sports
+INV-87267,S504,Running Shoes,2,22-04-2024,389.01,1054,India,Michael Holland,Sports
+INV-65348,S503,Dumbbells,2,24-12-2024,482.11,1064,Canada,Michael Cline,Sports
+INV-35056,S503,Dumbbells,2,18-11-2024,19.3,1003,Germany,Jacob Torres,Sports
+INV-87356,S501,Football,6,03-06-2024,115.63,1059,Canada,Tammy Acosta,Sports
+INV-37240,S502,Yoga Mat,3,27-01-2025,91.27,1100,India,Alexander Manning,Sports
+INV-66400,S504,Running Shoes,2,27-05-2024,331.06,1029,Australia,Mary Ponce,Sports
+INV-85682,E103,Wireless Earbuds,6,25-10-2024,463.6,1046,Australia,Christopher Baker,Electronics
+INV-47860,B402,Shampoo,3,27-08-2024,67.11,1003,UK,Jacqueline Collins,Beauty
+INV-56207,B402,Shampoo,2,22-06-2024,412.45,1056,Japan,Randy Baird,Beauty
+INV-55698,H302,Microwave,7,14-05-2024,403.45,1036,Canada,Melissa Hawkins,Home & Kitchen
+INV-30992,H304,Air Fryer,1,06-07-2024,169,1077,India,Yesenia Cannon,Home & Kitchen
+INV-29696,H302,Microwave,9,04-04-2024,436.19,1074,Australia,Ryan Duncan,Home & Kitchen
+INV-90891,C202,Jeans,7,03-02-2025,122.69,1057,USA,Michelle Oconnor,Clothing
+INV-99933,C203,Jacket,8,26-11-2024,439.16,1087,Germany,Mrs. Lisa Wilcox,Clothing
+INV-73306,C201,T-Shirt,4,25-09-2024,473.93,1096,Canada,Jeremy Henderson,Clothing
+INV-91437,S501,Football,4,10-10-2024,480.65,1048,UK,Diane Peterson,Sports
+INV-59261,C202,Jeans,8,15-06-2024,461.65,1017,France,Kelly Gray,Clothing
+INV-38148,B402,Shampoo,5,02-03-2025,291.76,1033,Germany,Dr. Diana Ruiz,Beauty
+INV-38862,H303,Vacuum Cleaner,5,12-03-2025,49.54,1011,France,Thomas Mills,Home & Kitchen
+INV-26355,H301,Blender,5,13-05-2024,32.14,1017,France,Leah Salazar,Home & Kitchen
+INV-96135,H304,Air Fryer,1,12-04-2024,420.98,1076,Japan,Evan Butler,Home & Kitchen
+INV-51754,S503,Dumbbells,2,03-08-2024,246.25,1066,Germany,Ryan Ray,Sports
+INV-87171,H304,Air Fryer,4,13-11-2024,107.37,1052,UK,Ashley Rivas,Home & Kitchen
+INV-83335,E102,Laptop,10,18-05-2024,219.5,1036,Australia,Diana Daugherty,Electronics
+INV-26183,E101,Smartphone,6,05-07-2024,266.6,1042,France,Kimberly Torres,Electronics
+INV-79913,B401,Face Cream,3,19-12-2024,99.82,1099,India,Dawn Maxwell,Beauty
+INV-30590,E103,Wireless Earbuds,9,28-11-2024,112.63,1015,India,Michael Vaughn,Electronics
+INV-24629,C202,Jeans,1,22-04-2024,380.44,1015,India,Valerie Blake,Clothing
+INV-95096,H302,Microwave,8,29-08-2024,70.93,1090,France,Albert Rodriguez,Home & Kitchen
+INV-17733,H304,Air Fryer,4,12-05-2024,81.89,1034,UK,Sara Roberts,Home & Kitchen
+INV-61585,B404,Perfume,7,26-10-2024,448.33,1015,France,Miss Heather Oconnell,Beauty
+INV-66722,C202,Jeans,7,04-12-2024,32.59,1097,France,Jamie Harper,Clothing
+INV-97701,S501,Football,3,20-07-2024,40.1,1077,Canada,Anthony Reyes,Sports
+INV-19628,B401,Face Cream,2,08-10-2024,246.03,1028,India,Alisha Ingram,Beauty
+INV-56079,S503,Dumbbells,3,24-05-2024,248.45,1072,France,Robert Garcia,Sports
+INV-68679,B402,Shampoo,10,09-07-2024,434.08,1028,Japan,Dr. Madison Smith,Beauty
+INV-58660,C201,T-Shirt,2,19-08-2024,290.14,1015,Japan,Donald Rodriguez,Clothing
+INV-92198,E103,Wireless Earbuds,6,07-09-2024,303.59,1063,Japan,Benjamin Johnson,Electronics
+INV-76912,C203,Jacket,7,04-11-2024,270.68,1000,Australia,Jessica Hughes,Clothing
+INV-11315,S504,Running Shoes,1,28-09-2024,280.09,1091,Canada,Jonathan Jones,Sports
+INV-68826,E104,Smartwatch,4,19-09-2024,153.16,1056,Canada,Mary Johnson,Electronics
+INV-65069,H304,Air Fryer,4,29-08-2024,118.98,1054,Germany,Heidi Rojas,Home & Kitchen
+INV-83027,H301,Blender,10,05-06-2024,186.34,1015,USA,Patrick Hicks,Home & Kitchen
+INV-31206,H302,Microwave,10,14-07-2024,455.89,1093,Germany,Brenda Garza,Home & Kitchen
+INV-64124,B402,Shampoo,3,07-05-2024,241.52,1014,Canada,Andrew Cohen,Beauty
+INV-83944,C202,Jeans,4,05-12-2024,45.94,1081,UK,Brian Garrett,Clothing
+INV-74067,S504,Running Shoes,2,16-11-2024,441.65,1055,UK,Sara Lane,Sports
+INV-96964,H303,Vacuum Cleaner,9,22-12-2024,376.7,1078,India,Cassandra Ortiz,Home & Kitchen
+INV-85366,B404,Perfume,5,27-03-2024,33.65,1051,Canada,Kristen Garrison,Beauty
+INV-95296,C203,Jacket,7,01-07-2024,480.25,1029,Japan,Charles Taylor,Clothing
+INV-63582,E102,Laptop,7,15-02-2025,359.18,1014,Japan,Jay Mack,Electronics
+INV-18724,B402,Shampoo,10,18-11-2024,179.1,1086,UK,Brenda Rodriguez,Beauty
+INV-50998,H304,Air Fryer,3,31-05-2024,343,1023,Germany,Jessica Wilson,Home & Kitchen
+INV-15148,S501,Football,7,02-11-2024,391.22,1077,France,Howard Rodriguez,Sports
+INV-54401,E104,Smartwatch,4,11-01-2025,328.86,1066,UK,Kimberly Gardner,Electronics
+INV-90706,E104,Smartwatch,1,16-09-2024,346.87,1075,Japan,Michael Snyder,Electronics
+INV-83493,B402,Shampoo,1,13-11-2024,278.19,1061,Germany,Bryan Ross,Beauty
+INV-93048,S504,Running Shoes,2,04-06-2024,25.79,1002,India,Sharon Robinson,Sports
+INV-67940,E103,Wireless Earbuds,8,27-04-2024,120.42,1070,Japan,John Adkins,Electronics
+INV-29505,B403,Lipstick,7,14-06-2024,222.1,1001,Canada,Kathy Johnson,Beauty
+INV-78621,C201,T-Shirt,2,18-06-2024,395.5,1044,Canada,Heather Moore,Clothing
+INV-29000,C204,Sneakers,2,14-08-2024,23.64,1018,UK,Dawn Steele,Clothing
+INV-37330,S503,Dumbbells,8,07-04-2024,456.92,1031,Japan,Larry Gregory,Sports
+INV-66092,S501,Football,7,07-12-2024,337.79,1057,France,Mario Kim MD,Sports
+INV-44577,C202,Jeans,4,25-04-2024,149.46,1029,France,Gary Wright,Clothing
+INV-24937,C203,Jacket,4,29-03-2024,69.3,1073,USA,Jeremy Phillips,Clothing
+INV-17609,B404,Perfume,2,31-07-2024,7.24,1093,USA,Betty Rose,Beauty
+INV-21660,C203,Jacket,9,12-10-2024,59.28,1008,Japan,Patrick Carlson,Clothing
+INV-34992,B403,Lipstick,5,01-06-2024,298.55,1059,France,Ebony Woodard,Beauty
+INV-49389,E101,Smartphone,8,24-04-2024,91.75,1066,Japan,Melissa Edwards,Electronics
+INV-44277,S501,Football,3,17-02-2025,489.31,1013,UK,Amanda Newton,Sports
+INV-21629,S504,Running Shoes,9,11-01-2025,477.8,1054,Australia,Susan Richard,Sports
+INV-53053,C201,T-Shirt,10,27-04-2024,278.93,1080,Japan,Erin Rivera DDS,Clothing
+INV-69339,E104,Smartwatch,4,09-10-2024,284.11,1071,Australia,Lisa Conner,Electronics
+INV-57093,E103,Wireless Earbuds,9,13-09-2024,160.09,1054,Canada,Courtney Jackson,Electronics
+INV-26436,H303,Vacuum Cleaner,9,23-06-2024,48.01,1053,France,Christopher Jackson,Home & Kitchen
+INV-26033,S503,Dumbbells,9,07-04-2024,249.68,1092,UK,Alexis Ellis,Sports
+INV-34981,E102,Laptop,5,02-07-2024,249.32,1033,USA,Christina Davis,Electronics
+INV-49224,C204,Sneakers,10,28-07-2024,330.93,1081,India,Christina Brown,Clothing
+INV-54789,H304,Air Fryer,8,23-07-2024,79.55,1045,Australia,Alexander Barnett,Home & Kitchen
+INV-86039,C202,Jeans,6,23-07-2024,230.94,1040,France,Susan Elliott,Clothing
+INV-73293,S501,Football,4,01-03-2025,85.06,1020,Canada,Anne Bell,Sports
+INV-78907,H303,Vacuum Cleaner,6,02-01-2025,68.66,1069,India,Ronnie Rodriguez,Home & Kitchen
+INV-75957,S504,Running Shoes,7,23-10-2024,18.19,1046,Germany,Lance Fernandez,Sports
+INV-28381,B403,Lipstick,9,02-12-2024,193.28,1086,Canada,Anna Duncan,Beauty
+INV-51534,H303,Vacuum Cleaner,2,04-02-2025,229.31,1095,India,Alex Jacobson,Home & Kitchen
+INV-20973,E103,Wireless Earbuds,2,24-04-2024,456.05,1097,Japan,Brian Johnson,Electronics
+INV-35715,B402,Shampoo,2,20-12-2024,133.76,1047,Canada,Abigail Smith,Beauty
+INV-10844,C201,T-Shirt,3,05-05-2024,240.9,1016,Australia,Karen Lee,Clothing
+INV-37903,C201,T-Shirt,1,01-05-2024,280.25,1019,Germany,Michael Delacruz,Clothing
+INV-76391,S501,Football,3,05-05-2024,413.15,1036,USA,Troy Andrews,Sports
+INV-36566,E102,Laptop,4,28-08-2024,129.35,1058,Canada,Sean Parker,Electronics
+INV-95315,C202,Jeans,1,31-05-2024,308.33,1089,France,Jose Walker,Clothing
+INV-78131,C203,Jacket,9,20-04-2024,320.2,1061,Japan,Eric Rivas,Clothing
+INV-33527,S502,Yoga Mat,3,09-09-2024,108.65,1060,Australia,Andrea Wright,Sports
+INV-99963,B404,Perfume,9,18-11-2024,215.59,1058,India,James Cole,Beauty
+INV-77122,B401,Face Cream,5,07-05-2024,427.18,1050,Canada,Juan Jones,Beauty
+INV-67627,B403,Lipstick,8,02-12-2024,329,1007,India,Brandon Clark,Beauty
+INV-46708,S504,Running Shoes,5,21-05-2024,483.34,1095,India,David Francis,Sports
+INV-66011,H302,Microwave,7,05-12-2024,307.35,1099,Germany,Carrie Garcia,Home & Kitchen
+INV-28374,B403,Lipstick,5,23-02-2025,228.87,1007,France,Kevin Cisneros,Beauty
+INV-44528,S503,Dumbbells,10,10-08-2024,51.29,1074,Canada,Kathleen Webb,Sports
+INV-71368,E103,Wireless Earbuds,8,11-06-2024,234.79,1091,Australia,Sandra Cox,Electronics
+INV-99720,E104,Smartwatch,9,21-08-2024,139.95,1021,Germany,Daniel Goodman,Electronics
+INV-74554,B401,Face Cream,2,19-09-2024,45.34,1077,Japan,Kristin Weeks,Beauty
+INV-88943,S504,Running Shoes,10,21-06-2024,451.53,1019,USA,Todd Little,Sports
+INV-40229,H303,Vacuum Cleaner,1,30-12-2024,157.36,1082,Canada,Penny Diaz,Home & Kitchen
+INV-73249,E101,Smartphone,2,04-12-2024,306.48,1096,Japan,James White,Electronics
+INV-89235,S503,Dumbbells,9,07-12-2024,81.33,1100,France,Alexandria Lewis,Sports
+INV-15623,H302,Microwave,1,08-12-2024,12.86,1008,France,Jim Vasquez,Home & Kitchen
+INV-97681,S502,Yoga Mat,2,19-08-2024,253.34,1099,USA,David Owens,Sports
+INV-31719,H304,Air Fryer,3,26-07-2024,241.69,1040,Japan,Annette Smith,Home & Kitchen
+INV-21368,S502,Yoga Mat,8,15-05-2024,212.52,1020,Japan,William Mason,Sports
+INV-23956,E101,Smartphone,9,08-02-2025,355.46,1006,Japan,Jason Romero,Electronics
+INV-87586,S501,Football,7,16-06-2024,70.17,1020,Germany,Emily Nelson,Sports
+INV-71482,S501,Football,10,15-06-2024,57.33,1000,USA,Melissa Graham,Sports
+INV-28979,E103,Wireless Earbuds,2,07-02-2025,234.98,1087,Japan,Mr. Brian Gardner,Electronics
+INV-10134,S504,Running Shoes,9,03-12-2024,454.77,1087,Germany,Mary Brown,Sports
+INV-13012,H302,Microwave,3,11-01-2025,85.35,1001,Germany,Mario Bryan,Home & Kitchen
+INV-60935,B402,Shampoo,10,16-08-2024,156.72,1000,UK,Stephen Holmes,Beauty
+INV-60683,B403,Lipstick,9,28-06-2024,54.6,1013,India,Jessica Collins,Beauty
+INV-24380,B403,Lipstick,6,05-01-2025,251.25,1080,Germany,Mary Hardy,Beauty
+INV-67093,S502,Yoga Mat,9,20-03-2024,290.15,1035,Germany,Laura Taylor,Sports
+INV-94345,C201,T-Shirt,5,25-09-2024,306.82,1070,Australia,Robert Diaz,Clothing
+INV-11597,C204,Sneakers,6,23-04-2024,142.08,1001,India,Michael Lewis,Clothing
+INV-70303,B404,Perfume,10,15-07-2024,426.6,1024,Germany,Charles Brady,Beauty
+INV-11041,C202,Jeans,5,18-10-2024,350.83,1009,Australia,Juan Pollard,Clothing
+INV-78417,H301,Blender,7,04-04-2024,234.61,1036,France,Anna Lynch,Home & Kitchen
+INV-59338,B402,Shampoo,4,09-06-2024,464.49,1042,Canada,Melissa Barr,Beauty
+INV-91061,S503,Dumbbells,4,02-09-2024,459.83,1096,UK,Darius Guerrero,Sports
+INV-66211,B403,Lipstick,7,22-02-2025,108.62,1012,France,Elizabeth Curry,Beauty
+INV-90095,B402,Shampoo,5,27-12-2024,116.55,1048,Germany,Kathryn Stanton,Beauty
+INV-86462,B402,Shampoo,9,25-05-2024,492.84,1057,USA,Clinton Johnson,Beauty
+INV-70234,S504,Running Shoes,9,16-03-2025,80.21,1052,France,Donna Wallace,Sports
+INV-73773,H304,Air Fryer,3,11-02-2025,288.86,1092,Germany,David Powell,Home & Kitchen
+INV-10918,H302,Microwave,1,09-01-2025,408.5,1069,Canada,Barbara Simpson,Home & Kitchen
+INV-25477,B402,Shampoo,2,07-09-2024,283.79,1033,Australia,Jonathon Jenkins,Beauty
+INV-27737,B404,Perfume,3,10-12-2024,43.3,1045,Australia,Bryan Strickland,Beauty
+INV-55416,H303,Vacuum Cleaner,7,09-10-2024,190.45,1092,France,John Rodriguez,Home & Kitchen
+INV-33782,B402,Shampoo,10,14-01-2025,423.02,1020,UK,Sheri Reyes,Beauty
+INV-62138,C204,Sneakers,1,09-05-2024,358.3,1055,UK,Jill Phillips,Clothing
+INV-32109,E104,Smartwatch,8,31-05-2024,360.72,1037,France,Emily Brady,Electronics
+INV-44317,C204,Sneakers,7,17-07-2024,448.61,1056,France,Randy Nelson PhD,Clothing
+INV-55521,C203,Jacket,7,11-10-2024,27.84,1073,Australia,Kayla Weber,Clothing
+INV-12618,E101,Smartphone,7,19-10-2024,207.82,1006,France,Karen Brown,Electronics
+INV-34707,S502,Yoga Mat,7,13-04-2024,157.35,1023,India,Corey Wilson,Sports
+INV-30639,C203,Jacket,5,28-08-2024,75.2,1022,Canada,Amanda Logan,Clothing
+INV-60937,C201,T-Shirt,7,04-04-2024,139.02,1029,Japan,Michelle Burch,Clothing
+INV-66683,H304,Air Fryer,1,30-01-2025,440.22,1080,India,Andrea Shepard,Home & Kitchen
+INV-98851,B403,Lipstick,1,20-07-2024,128.02,1092,India,Cynthia Reyes,Beauty
+INV-87983,C204,Sneakers,7,28-09-2024,469.12,1060,India,Cameron Hughes,Clothing
+INV-17593,E104,Smartwatch,8,28-09-2024,217.81,1021,UK,Lisa Griffith,Electronics
+INV-44523,S501,Football,2,17-01-2025,337.51,1040,Canada,Lawrence Steele,Sports
+INV-48322,B402,Shampoo,8,18-09-2024,122.69,1054,India,John Powell,Beauty
+INV-27246,S503,Dumbbells,5,09-06-2024,201.62,1058,India,Michelle Ross,Sports
+INV-55479,S502,Yoga Mat,9,31-08-2024,217.7,1057,France,Lonnie Ramirez,Sports
+INV-47150,S504,Running Shoes,9,09-07-2024,358.46,1072,India,Michael Lester,Sports
+INV-40774,B402,Shampoo,7,01-03-2025,102.58,1057,UK,Heather Mann,Beauty
+INV-96316,E102,Laptop,5,11-09-2024,193.37,1041,Germany,Brandi Villa,Electronics
+INV-51572,H301,Blender,1,04-11-2024,166.88,1080,Canada,Jose Morris,Home & Kitchen
+INV-31599,B403,Lipstick,6,09-12-2024,415.02,1016,Germany,Stephanie Branch,Beauty
+INV-77112,C204,Sneakers,10,25-02-2025,322.31,1037,Canada,Benjamin Zamora,Clothing
+INV-86527,B404,Perfume,3,25-09-2024,343.19,1027,India,Shawn King,Beauty
+INV-25505,C204,Sneakers,7,06-05-2024,119.27,1077,Australia,Morgan Navarro,Clothing
+INV-11892,S503,Dumbbells,7,21-08-2024,318.61,1081,Australia,John Wells,Sports
+INV-95825,B404,Perfume,3,30-01-2025,415,1076,India,Andrew Wagner,Beauty
+INV-19303,S502,Yoga Mat,8,21-10-2024,421.15,1031,Japan,Alison Holloway,Sports
+INV-55809,S501,Football,3,29-11-2024,267.34,1084,Japan,Richard Cannon,Sports
+INV-18070,S504,Running Shoes,10,19-12-2024,409.7,1029,India,Gerald Rogers,Sports
+INV-59508,C202,Jeans,9,28-08-2024,373.91,1068,Australia,Emily Alvarado DDS,Clothing
+INV-10937,B404,Perfume,7,06-09-2024,22.22,1072,Australia,Ronald Norman,Beauty
+INV-30372,S504,Running Shoes,10,14-08-2024,127.61,1058,UK,Brandon Parks,Sports
+INV-23263,C202,Jeans,9,25-01-2025,258.26,1035,Germany,Gary Adams,Clothing
+INV-25494,S503,Dumbbells,1,25-03-2024,83.35,1057,Australia,Brian Stein,Sports
+INV-54509,H304,Air Fryer,10,25-03-2024,197.6,1075,France,Benjamin Howard,Home & Kitchen
+INV-25638,E102,Laptop,1,10-09-2024,367.26,1022,Germany,Thomas Blackburn,Electronics
+INV-83445,B402,Shampoo,10,05-11-2024,41.88,1099,Canada,Anthony Bowman,Beauty
+INV-81856,S502,Yoga Mat,6,24-06-2024,229.36,1065,UK,Tyrone Houston,Sports
+INV-59314,S502,Yoga Mat,7,07-09-2024,12.08,1055,India,Tyler Nicholson,Sports
+INV-65589,S502,Yoga Mat,1,30-08-2024,196.84,1037,France,Austin Landry,Sports
+INV-35570,C201,T-Shirt,1,27-06-2024,245.18,1071,France,Keith Willis,Clothing
+INV-26809,E102,Laptop,10,19-02-2025,150.28,1028,France,Gary Allen,Electronics
+INV-85502,C202,Jeans,10,18-11-2024,430.55,1043,USA,April Eaton,Clothing
+INV-27637,B401,Face Cream,6,20-06-2024,440.63,1021,Canada,Donna Massey,Beauty
+INV-17790,H303,Vacuum Cleaner,6,18-10-2024,295.13,1062,Germany,Timothy Smith,Home & Kitchen
+INV-95113,E104,Smartwatch,10,31-01-2025,400.02,1035,France,Krystal White,Electronics
+INV-23897,E103,Wireless Earbuds,9,07-11-2024,80.98,1025,UK,Christopher Williams,Electronics
+INV-61746,E102,Laptop,8,07-02-2025,40.03,1077,Canada,Carlos Daugherty PhD,Electronics
+INV-19027,S504,Running Shoes,5,19-08-2024,440.43,1000,UK,Sophia Schmitt,Sports
+INV-29170,B404,Perfume,4,17-06-2024,468.75,1031,Canada,Susan Mason,Beauty
+INV-47427,C202,Jeans,8,29-09-2024,73.08,1045,Germany,Alyssa Hernandez,Clothing
+INV-47380,B401,Face Cream,5,08-03-2025,172.46,1059,Japan,Kimberly Mccarthy,Beauty
+INV-26698,B404,Perfume,8,05-09-2024,161.22,1022,Canada,Erin Stephens,Beauty
+INV-47648,E104,Smartwatch,2,11-08-2024,427.41,1050,UK,Ryan Baker,Electronics
+INV-60147,S502,Yoga Mat,3,03-10-2024,85.09,1002,Germany,Victoria Jones,Sports
+INV-56457,S501,Football,6,18-03-2025,384.09,1000,USA,Kimberly Stewart,Sports
+INV-39682,H302,Microwave,3,25-11-2024,43.26,1006,Canada,Jessica Rios,Home & Kitchen
+INV-83060,S502,Yoga Mat,9,19-10-2024,76.8,1067,Germany,Steven Lin,Sports
+INV-42460,B404,Perfume,5,29-11-2024,261.6,1045,Japan,Samuel Hood,Beauty
+INV-61771,C201,T-Shirt,1,15-01-2025,18.73,1056,France,Charles Johnson,Clothing
+INV-53141,E103,Wireless Earbuds,3,09-02-2025,451.58,1061,India,Kaitlin Gallagher,Electronics
+INV-10276,B403,Lipstick,4,17-03-2025,474.99,1011,Germany,Kathleen Curtis,Beauty
+INV-14147,B403,Lipstick,4,20-02-2025,158.2,1035,Canada,Dr. Jennifer Newman,Beauty
+INV-65291,C204,Sneakers,1,25-10-2024,58.04,1053,UK,James Thomas,Clothing
+INV-28894,B404,Perfume,1,24-06-2024,276.98,1079,France,Joshua Lee,Beauty
+INV-14539,C204,Sneakers,4,26-11-2024,61.49,1012,Japan,Erica Conway,Clothing
+INV-94085,E102,Laptop,4,25-05-2024,332.42,1065,Germany,Thomas Doyle,Electronics
+INV-87194,S504,Running Shoes,1,21-07-2024,108.22,1100,Australia,Erin Rivera,Sports
+INV-69495,B404,Perfume,3,24-07-2024,50.44,1041,France,Crystal Lynn,Beauty
+INV-25964,S502,Yoga Mat,7,24-12-2024,212.4,1026,France,Sandra Summers,Sports
+INV-11976,E102,Laptop,9,06-05-2024,45.71,1081,India,Krystal Rhodes,Electronics
+INV-82573,B401,Face Cream,10,02-12-2024,429.91,1079,Germany,Annette Walker,Beauty
+INV-33018,B404,Perfume,3,13-05-2024,369.09,1072,Canada,Kayla Adams,Beauty
+INV-87451,B403,Lipstick,10,21-06-2024,156.23,1083,Germany,Stephanie Montgomery,Beauty
+INV-47589,E101,Smartphone,8,27-09-2024,223.13,1042,India,Scott Nguyen,Electronics
+INV-29780,H302,Microwave,8,09-07-2024,61.78,1001,USA,Benjamin Harvey,Home & Kitchen
+INV-39727,B404,Perfume,2,04-01-2025,250.48,1047,Japan,Alec Morris,Beauty
+INV-10071,E103,Wireless Earbuds,4,30-09-2024,292.94,1017,Japan,Kevin Kelley,Electronics
+INV-50674,B404,Perfume,4,05-01-2025,277.28,1061,UK,Joseph Rosales,Beauty
+INV-55552,C204,Sneakers,5,24-12-2024,302.04,1094,Australia,Albert Tapia,Clothing
+INV-64475,H303,Vacuum Cleaner,6,29-12-2024,380.86,1075,UK,Fernando Gross,Home & Kitchen
+INV-38999,E101,Smartphone,8,22-04-2024,381.98,1096,UK,Wendy Haney,Electronics
+INV-99857,S502,Yoga Mat,8,12-01-2025,346.79,1098,Canada,Julie Lam,Sports
+INV-70979,E102,Laptop,2,23-12-2024,252.92,1074,UK,George Webb,Electronics
+INV-64099,H304,Air Fryer,1,06-01-2025,267.76,1048,UK,Daniel Howard,Home & Kitchen
+INV-51184,B403,Lipstick,4,25-03-2024,126.49,1057,Australia,Lauren Hall,Beauty
+INV-52746,C202,Jeans,8,19-03-2025,61.75,1043,Canada,Bruce Arroyo,Clothing
+INV-90919,S503,Dumbbells,1,19-07-2024,194.61,1050,India,Mr. Ryan Mcguire,Sports
+INV-74340,S501,Football,7,18-02-2025,6.72,1069,France,Steve Ortega,Sports
+INV-56074,E104,Smartwatch,3,13-07-2024,94.22,1098,Canada,Regina Mcconnell,Electronics
+INV-84641,H301,Blender,1,27-05-2024,204.51,1087,India,Stephen Bradley,Home & Kitchen
+INV-82386,E101,Smartphone,2,13-02-2025,373.8,1006,Germany,Jennifer Ross,Electronics
+INV-59240,C204,Sneakers,2,08-02-2025,310.64,1099,Germany,Scott Guzman,Clothing
+INV-71255,C204,Sneakers,1,06-06-2024,71.34,1087,UK,Julia Dixon,Clothing
+INV-13892,S504,Running Shoes,8,18-08-2024,488.95,1049,Australia,Raymond Mcmahon,Sports
+INV-66570,S503,Dumbbells,5,16-11-2024,214.49,1038,Japan,Elizabeth Guzman,Sports
+INV-85593,E102,Laptop,9,14-07-2024,239.51,1050,USA,Laura Baird,Electronics
+INV-45378,C204,Sneakers,6,20-02-2025,228.09,1071,Australia,Teresa Mack,Clothing
+INV-23983,C204,Sneakers,1,24-11-2024,233.62,1080,UK,Kevin Brown,Clothing
+INV-16540,B401,Face Cream,2,03-10-2024,371.51,1031,India,Nicholas Anthony,Beauty
+INV-41078,E101,Smartphone,1,16-08-2024,323.28,1024,France,Denise Reed,Electronics
+INV-38629,E103,Wireless Earbuds,1,25-05-2024,401.77,1040,Japan,Monica Meyer,Electronics
+INV-24094,B404,Perfume,10,26-01-2025,332.8,1018,Australia,Amanda Cisneros,Beauty
+INV-64089,C202,Jeans,9,08-10-2024,307.08,1096,France,Abigail Preston,Clothing
+INV-53565,B404,Perfume,8,05-12-2024,297.5,1099,USA,John Ortega,Beauty
+INV-77449,C204,Sneakers,10,12-01-2025,393.12,1023,France,Michael Young,Clothing
+INV-85510,S501,Football,7,25-01-2025,159.57,1068,Japan,Jamie House,Sports
+INV-33087,E103,Wireless Earbuds,4,23-03-2024,122.48,1095,UK,David Chase,Electronics
+INV-67835,S503,Dumbbells,5,06-08-2024,286.07,1036,Australia,Shawn Mcdonald,Sports
+INV-31678,C204,Sneakers,9,17-04-2024,418.26,1021,Japan,Candice Hopkins,Clothing
+INV-32000,E102,Laptop,9,10-10-2024,382.45,1023,France,Christy Haynes,Electronics
+INV-17856,E102,Laptop,8,12-10-2024,498.43,1038,France,Christopher Rosario DDS,Electronics
+INV-36224,E101,Smartphone,9,07-07-2024,208.28,1026,Germany,Doris Banks,Electronics
+INV-39948,E102,Laptop,1,09-08-2024,13.07,1071,Australia,John Miller,Electronics
+INV-35899,E104,Smartwatch,9,01-12-2024,290.16,1026,Germany,Karen Rodriguez,Electronics
+INV-36268,B401,Face Cream,1,31-12-2024,484.93,1077,USA,Jared Erickson,Beauty
+INV-66385,C203,Jacket,9,14-07-2024,68.02,1056,USA,Kathryn Perez,Clothing
+INV-54610,C204,Sneakers,4,18-06-2024,186.09,1033,UK,Michael Thompson,Clothing
+INV-32212,H303,Vacuum Cleaner,5,02-08-2024,203.94,1042,India,Steve Chase,Home & Kitchen
+INV-65341,H304,Air Fryer,5,07-01-2025,173.89,1081,USA,Courtney Beasley,Home & Kitchen
+INV-39775,E104,Smartwatch,5,26-02-2025,426.01,1047,Canada,Kevin Wilson,Electronics
+INV-70904,E103,Wireless Earbuds,10,03-11-2024,285.83,1039,France,John Khan,Electronics
+INV-39966,E103,Wireless Earbuds,3,15-01-2025,469.82,1058,Germany,Julie Johnson,Electronics
+INV-62204,C203,Jacket,2,26-04-2024,287.2,1086,USA,Christine Smith,Clothing
+INV-29190,H304,Air Fryer,4,07-11-2024,323.03,1020,France,Kelly Taylor,Home & Kitchen
+INV-17121,S502,Yoga Mat,7,10-09-2024,478.71,1024,UK,Katherine Anderson,Sports
+INV-17619,C203,Jacket,7,30-08-2024,337.45,1003,Japan,Andrea Mcdonald,Clothing
+INV-82230,C203,Jacket,9,03-11-2024,26.45,1020,USA,Donna Conner,Clothing
+INV-29204,C202,Jeans,2,16-11-2024,244.18,1046,India,Caitlin Escobar,Clothing
+INV-56203,S504,Running Shoes,5,29-12-2024,259.38,1002,India,Maria Smith,Sports
+INV-40566,C202,Jeans,4,24-07-2024,196.88,1095,Australia,Mrs. Vicki Walker DDS,Clothing
+INV-66726,E103,Wireless Earbuds,8,15-02-2025,334.46,1037,Germany,Patrick Lewis,Electronics
+INV-99332,H302,Microwave,2,24-07-2024,262.11,1024,UK,Maria Robinson,Home & Kitchen
+INV-96274,S504,Running Shoes,5,10-04-2024,296.15,1016,Australia,Jennifer Vasquez,Sports
+INV-86968,B402,Shampoo,1,07-02-2025,391.93,1079,UK,Joshua Martinez,Beauty
+INV-46002,C204,Sneakers,6,24-01-2025,451.44,1036,USA,Stephanie Thompson,Clothing
+INV-57160,E104,Smartwatch,7,07-10-2024,26.31,1003,USA,Leslie Fuentes,Electronics
+INV-69434,B401,Face Cream,7,26-07-2024,446.91,1100,Australia,Rachel Martin,Beauty
+INV-54681,S502,Yoga Mat,8,28-04-2024,55.08,1092,Canada,Amanda Rodriguez,Sports
+INV-49069,E102,Laptop,4,18-07-2024,137.46,1073,USA,Jade Zimmerman,Electronics
+INV-18401,S502,Yoga Mat,5,05-06-2024,383.53,1090,India,John Moore,Sports
+INV-17375,B403,Lipstick,4,08-11-2024,128.85,1053,Canada,Nathan White,Beauty
+INV-82914,E103,Wireless Earbuds,1,08-07-2024,142.39,1079,USA,Henry Collins,Electronics
+INV-20032,E102,Laptop,7,30-09-2024,426.73,1037,India,Jessica Baker MD,Electronics
+INV-79105,B404,Perfume,6,08-02-2025,409.74,1073,Germany,Kelly Gaines,Beauty
+INV-65734,B402,Shampoo,10,05-02-2025,159.56,1048,Japan,Craig Knight,Beauty
+INV-58257,C202,Jeans,5,06-09-2024,62.83,1026,Germany,Lisa Johnson,Clothing
+INV-42403,B401,Face Cream,2,02-04-2024,120.79,1096,France,Lisa Johnston,Beauty
+INV-33041,H303,Vacuum Cleaner,8,13-02-2025,258.99,1027,Australia,Adam Lopez,Home & Kitchen
+INV-40075,E104,Smartwatch,4,22-04-2024,296.24,1059,Canada,Amy Hicks,Electronics
+INV-39947,C202,Jeans,7,06-03-2025,484.22,1091,Germany,Paul Padilla,Clothing
+INV-40446,B403,Lipstick,4,02-03-2025,42.28,1049,Canada,Cynthia Price,Beauty
+INV-84498,E101,Smartphone,4,01-01-2025,436.4,1052,Australia,Alicia Maynard,Electronics
+INV-69934,C202,Jeans,4,24-04-2024,355.26,1019,France,Kenneth Manning,Clothing
+INV-61070,S503,Dumbbells,10,10-05-2024,379.26,1048,Germany,Shawn David,Sports
+INV-27209,B404,Perfume,7,11-01-2025,316.25,1054,USA,Mr. Michael Baker,Beauty
+INV-67450,S504,Running Shoes,8,25-01-2025,318.75,1024,UK,Robert Taylor,Sports
+INV-97402,B401,Face Cream,7,01-02-2025,194.61,1064,India,Nicholas Rivera,Beauty
+INV-38706,E102,Laptop,6,04-05-2024,409.65,1060,UK,Tracy Gray,Electronics
+INV-11832,B403,Lipstick,3,23-01-2025,197.53,1015,India,Mr. Matthew Sexton DDS,Beauty
+INV-11489,S502,Yoga Mat,4,05-09-2024,417.52,1031,USA,Craig Bauer,Sports
+INV-52415,C203,Jacket,4,13-01-2025,42.52,1019,Japan,Samuel Dennis,Clothing
+INV-73723,S503,Dumbbells,1,11-07-2024,252.24,1050,Japan,Tiffany Shaffer,Sports
+INV-73120,S502,Yoga Mat,10,28-04-2024,301.16,1046,Canada,Jessica Armstrong,Sports
+INV-12827,B403,Lipstick,10,21-10-2024,38.39,1013,Germany,Alexandra Miller,Beauty
+INV-20067,B404,Perfume,9,09-09-2024,421.89,1007,India,Anne Morgan,Beauty
+INV-92141,H301,Blender,5,05-06-2024,320.72,1077,USA,Brandon Hale,Home & Kitchen
+INV-43363,S502,Yoga Mat,8,20-05-2024,275.65,1000,India,Denise Robinson,Sports
+INV-87215,C201,T-Shirt,1,07-03-2025,153.14,1075,Australia,Raymond Nunez,Clothing
+INV-67326,C202,Jeans,3,20-02-2025,150.07,1068,Germany,Aimee Kane,Clothing
+INV-87166,B402,Shampoo,9,18-11-2024,357.94,1076,Germany,Andrea Herrera,Beauty
+INV-40766,S502,Yoga Mat,8,03-05-2024,260.67,1017,France,Stephanie Johnson,Sports
+INV-82683,H302,Microwave,5,05-04-2024,11.58,1092,USA,Amy Sweeney,Home & Kitchen
+INV-63538,E104,Smartwatch,3,06-05-2024,263.72,1021,Australia,Scott Rivas,Electronics
+INV-28302,E103,Wireless Earbuds,2,06-03-2025,246.77,1094,Japan,Mary Khan,Electronics
+INV-21288,H302,Microwave,3,10-01-2025,162.74,1085,Canada,Paul Gray,Home & Kitchen
+INV-79688,E103,Wireless Earbuds,7,04-03-2025,368.6,1018,Australia,Jonathan Hatfield,Electronics
+INV-98988,C204,Sneakers,10,25-01-2025,191.75,1053,Australia,Jade Jenkins,Clothing
+INV-90125,S504,Running Shoes,8,04-03-2025,293.65,1064,Australia,Rebecca Mooney,Sports
+INV-36423,E101,Smartphone,5,31-05-2024,489.09,1097,USA,Jonathan Ford,Electronics
+INV-61633,H303,Vacuum Cleaner,2,04-12-2024,215.88,1016,India,Lynn Cook,Home & Kitchen
+INV-91450,S503,Dumbbells,3,27-04-2024,404.12,1086,Japan,William Byrd,Sports
+INV-18893,B403,Lipstick,6,29-11-2024,100.46,1020,Canada,Jessica Warren,Beauty
+INV-81373,C201,T-Shirt,5,26-04-2024,323.66,1087,Canada,Aaron Harris,Clothing
+INV-75130,B402,Shampoo,2,25-07-2024,365.96,1062,Japan,Kevin Wu DVM,Beauty
+INV-85361,E102,Laptop,8,06-12-2024,298.81,1075,Canada,Jennifer Martin,Electronics
+INV-11302,H301,Blender,9,16-02-2025,279.18,1011,Germany,Sandra Jackson,Home & Kitchen
+INV-73363,C202,Jeans,1,08-07-2024,176.66,1082,UK,Mark Donaldson,Clothing
+INV-68471,H301,Blender,9,12-08-2024,289.33,1009,India,Angela Contreras,Home & Kitchen
+INV-61105,S501,Football,6,21-10-2024,287.79,1094,France,Brittney Schwartz,Sports
+INV-63353,C201,T-Shirt,3,31-08-2024,117.47,1000,France,Robert Taylor,Clothing
+INV-25120,S504,Running Shoes,2,26-03-2024,206.28,1059,France,Christopher Rodgers,Sports
+INV-82019,E104,Smartwatch,5,25-01-2025,201.08,1100,Canada,Tabitha Knight,Electronics
+INV-13472,H303,Vacuum Cleaner,10,13-11-2024,164.24,1043,USA,Robert Lopez,Home & Kitchen
+INV-35215,B402,Shampoo,2,03-12-2024,373.43,1036,USA,Aaron Walsh,Beauty
+INV-51612,S504,Running Shoes,7,31-10-2024,275.38,1031,India,Samantha Brown,Sports
+INV-35547,H301,Blender,8,07-02-2025,330.47,1068,Australia,Amanda Johnson,Home & Kitchen
+INV-67416,C201,T-Shirt,3,25-09-2024,348.92,1078,UK,John Riley,Clothing
+INV-75543,S504,Running Shoes,7,19-01-2025,328.64,1017,India,Mr. Brian Salinas,Sports
+INV-52334,C202,Jeans,8,29-09-2024,150.42,1098,USA,Bailey Ward,Clothing
+INV-94095,S503,Dumbbells,3,14-10-2024,226.36,1094,India,Billy Palmer,Sports
+INV-47923,H304,Air Fryer,4,13-12-2024,129.51,1006,Australia,Nicholas Cooper,Home & Kitchen
+INV-47933,E102,Laptop,3,02-12-2024,15.34,1066,Canada,Barbara Turner,Electronics
+INV-89587,H304,Air Fryer,2,13-11-2024,147.84,1100,USA,Michael Hale,Home & Kitchen
+INV-23140,B403,Lipstick,4,21-03-2024,444.29,1039,UK,John Holmes,Beauty
+INV-65650,H304,Air Fryer,3,21-09-2024,254.12,1018,Canada,Danielle Wright,Home & Kitchen
+INV-26792,E104,Smartwatch,4,20-04-2024,173.78,1050,UK,Paul Smith,Electronics
+INV-74447,C201,T-Shirt,2,09-06-2024,484.69,1025,Canada,Kendra Stephens,Clothing
+INV-63174,E102,Laptop,8,19-04-2024,134.46,1020,Canada,Robert Washington,Electronics
+INV-50244,B402,Shampoo,5,20-12-2024,402.04,1019,USA,Stephanie Marshall,Beauty
+INV-57423,S504,Running Shoes,10,21-05-2024,394.57,1053,USA,Anthony Novak,Sports
+INV-47203,C202,Jeans,4,22-08-2024,391.2,1053,France,Jeremy Miller,Clothing
+INV-27656,B402,Shampoo,5,09-09-2024,462.44,1058,India,Shawn Gardner,Beauty
+INV-22294,B404,Perfume,6,25-04-2024,269.43,1088,Australia,Cody Wilson,Beauty
+INV-59418,H303,Vacuum Cleaner,8,24-06-2024,212.63,1065,Australia,Kelly Mitchell,Home & Kitchen
+INV-95875,H303,Vacuum Cleaner,6,17-05-2024,101.92,1013,France,Maria Foley,Home & Kitchen
+INV-85105,H301,Blender,4,06-07-2024,361.16,1038,Australia,Ryan Harper,Home & Kitchen
+INV-19089,S502,Yoga Mat,9,03-08-2024,412.84,1013,UK,Emily Howell,Sports
+INV-21801,E102,Laptop,9,14-03-2025,482.24,1073,UK,Selena Francis,Electronics
+INV-21378,S504,Running Shoes,7,16-11-2024,287.9,1036,USA,Brittney Clark,Sports
+INV-13601,S504,Running Shoes,5,24-07-2024,35.63,1077,USA,Thomas Hodges,Sports
+INV-24899,S502,Yoga Mat,1,14-10-2024,392.48,1083,USA,Diane Dalton,Sports
+INV-14886,B401,Face Cream,2,16-06-2024,190.61,1010,Japan,Christie Boyd,Beauty
+INV-69476,C202,Jeans,10,03-06-2024,254.72,1000,UK,Richard Wang,Clothing
+INV-94975,B402,Shampoo,9,09-05-2024,9.37,1100,India,Dr. Tony Robinson,Beauty
+INV-83696,C202,Jeans,4,20-01-2025,264.58,1025,USA,James Lozano,Clothing
+INV-18692,E102,Laptop,8,30-04-2024,433.17,1068,UK,Monica Davidson MD,Electronics
+INV-57419,H301,Blender,1,29-10-2024,214.55,1013,Canada,Anne Kelly,Home & Kitchen
+INV-38604,E101,Smartphone,8,31-01-2025,340.8,1083,USA,Sara Anderson,Electronics
+INV-46282,B402,Shampoo,7,09-09-2024,51.65,1035,Australia,Jessica Adams,Beauty
+INV-16659,C201,T-Shirt,8,25-10-2024,260.31,1078,France,Ryan Carpenter,Clothing
+INV-94450,C202,Jeans,3,05-06-2024,58.42,1083,France,Paul Serrano,Clothing
+INV-69615,C202,Jeans,7,10-04-2024,315.97,1057,France,Paige Wilkinson,Clothing
+INV-83664,S502,Yoga Mat,10,14-10-2024,223.27,1016,Japan,Eric Salinas,Sports
+INV-58569,S502,Yoga Mat,10,21-01-2025,374.21,1054,Canada,Dr. Jerry Fischer,Sports
+INV-10071,C202,Jeans,7,06-04-2024,138.01,1067,UK,Jesse Allen,Clothing
+INV-43528,B401,Face Cream,4,30-07-2024,346.3,1077,Australia,Andrew Walker,Beauty
+INV-21817,C202,Jeans,8,27-05-2024,124.23,1020,India,David Foster,Clothing
+INV-97783,E101,Smartphone,3,10-01-2025,338.83,1060,France,Dr. Nathan Gordon,Electronics
+INV-94937,E102,Laptop,7,18-02-2025,355.93,1013,UK,Brian Hall,Electronics
+INV-38330,B404,Perfume,4,03-01-2025,101.24,1034,Japan,Jennifer Lee,Beauty
+INV-13609,S503,Dumbbells,5,28-12-2024,363.14,1055,Japan,Ashlee Shaffer,Sports
+INV-13090,S502,Yoga Mat,4,25-11-2024,175.16,1035,India,Larry Sosa,Sports
+INV-72147,S503,Dumbbells,7,20-03-2024,281.29,1091,Canada,Melissa Green,Sports
+INV-19611,H301,Blender,10,23-11-2024,339.52,1099,India,Amy Davila,Home & Kitchen
+INV-95375,E103,Wireless Earbuds,2,23-06-2024,196.84,1004,Germany,Melissa Hansen,Electronics
+INV-86364,H303,Vacuum Cleaner,8,19-12-2024,243.93,1042,USA,Catherine Hughes,Home & Kitchen
+INV-67379,B401,Face Cream,9,15-10-2024,148.37,1098,UK,Elizabeth Pierce,Beauty
+INV-75795,E101,Smartphone,8,30-11-2024,61.21,1013,France,Ruth Smith,Electronics
+INV-34621,H302,Microwave,3,10-03-2025,498.89,1002,USA,Jessica Lee,Home & Kitchen
+INV-55964,C201,T-Shirt,9,14-08-2024,32.03,1071,Australia,Johnny Garner,Clothing
+INV-44544,C203,Jacket,5,11-07-2024,214.84,1021,USA,Steven Mueller,Clothing
+INV-39141,B402,Shampoo,8,10-10-2024,258.29,1029,Canada,Brianna Holden,Beauty
+INV-17586,C201,T-Shirt,5,07-10-2024,253.46,1084,Germany,David Hansen,Clothing
+INV-87018,S504,Running Shoes,4,02-03-2025,310.59,1008,Canada,Ashley Williamson,Sports
+INV-53574,E102,Laptop,4,09-09-2024,199.39,1096,India,Alexandra Bullock,Electronics
+INV-31171,E104,Smartwatch,3,08-07-2024,461.85,1002,Canada,Dawn Wyatt,Electronics
+INV-81472,H302,Microwave,6,01-01-2025,172.72,1082,India,Gary Rodgers,Home & Kitchen
+INV-81699,H304,Air Fryer,1,18-03-2025,33.45,1007,Australia,Joseph Gray,Home & Kitchen
+INV-36917,S501,Football,6,24-10-2024,464.78,1075,Japan,Audrey Conrad,Sports
+INV-80033,H303,Vacuum Cleaner,10,02-06-2024,399.61,1093,Germany,Michael Powell,Home & Kitchen
+INV-42781,E104,Smartwatch,5,28-04-2024,329.24,1010,India,Gregory Owens,Electronics
+INV-27796,S503,Dumbbells,5,21-06-2024,266.3,1090,Japan,Crystal Lozano,Sports
+INV-61445,E103,Wireless Earbuds,1,12-11-2024,453.42,1051,Australia,Amanda Mcclain,Electronics
+INV-85172,E103,Wireless Earbuds,8,13-09-2024,134.5,1007,UK,Timothy Lee,Electronics
+INV-50581,H304,Air Fryer,8,31-07-2024,479.06,1009,USA,Robert Benson,Home & Kitchen
+INV-87324,E102,Laptop,4,16-07-2024,212.39,1030,Japan,Kristy Barajas,Electronics
+INV-63671,E103,Wireless Earbuds,6,20-04-2024,179.19,1017,Germany,Randy Freeman,Electronics
+INV-90251,B403,Lipstick,1,25-07-2024,132.74,1056,Australia,Aaron Keith,Beauty
+INV-78748,B404,Perfume,2,16-09-2024,400.1,1032,France,Catherine Perez,Beauty
+INV-50189,H301,Blender,10,10-10-2024,492.38,1004,Canada,Joann Goodman,Home & Kitchen
+INV-28253,C202,Jeans,9,23-05-2024,198.88,1026,Australia,Pamela Pugh,Clothing
+INV-78333,C202,Jeans,5,29-04-2024,138.1,1085,UK,Alexander Brooks,Clothing
+INV-66762,E102,Laptop,9,22-10-2024,367.6,1019,Japan,Laura Waters MD,Electronics
+INV-58279,C202,Jeans,4,08-01-2025,313.65,1080,Canada,Robert Richardson,Clothing
+INV-83162,C203,Jacket,4,22-05-2024,365.18,1024,France,Steven Smith,Clothing
+INV-42001,S501,Football,4,03-09-2024,232.61,1041,Australia,Stacey Jones,Sports
+INV-84684,S503,Dumbbells,2,28-09-2024,221.27,1005,Japan,Stacey Jordan,Sports
